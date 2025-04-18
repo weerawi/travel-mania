@@ -128,7 +128,7 @@ export default function ProvinceForecasting() {
   }, [monthlyData])
 
   // Colors for charts
-  const COLORS = ["#8884d8", "#82ca9d", "#ffc658", "#ff8042", "#0088FE", "#00C49F", "#FFBB28", "#FF8042"]
+  const COLORS = ["#164e63", "#14b8a6", "#ca8a04", "#ea580c", "#083644", "#5b21b6", "#92400e", "#854d0e"]
 
   return (
     <div className="space-y-6">
@@ -250,7 +250,7 @@ export default function ProvinceForecasting() {
                     <Line
                       type="monotone"
                       dataKey="tourists"
-                      stroke="#8884d8"
+                      stroke="#164e63"
                       activeDot={{ r: 8 }}
                       name="Tourist Arrivals"
                     />
@@ -281,7 +281,7 @@ export default function ProvinceForecasting() {
                       <YAxis dataKey="name" type="category" width={100} />
                       <Tooltip formatter={(value) => [`${value.toLocaleString()} tourists`, "Total"]} />
                       <Legend />
-                      <Bar dataKey="total" fill="#8884d8" name="Total Tourists" />
+                      <Bar dataKey="total" fill="#164e63" name="Total Tourists" />
                     </BarChart>
                   </ResponsiveContainer>
                 </div>
@@ -295,7 +295,7 @@ export default function ProvinceForecasting() {
                         cy="50%"
                         labelLine={false}
                         outerRadius={150}
-                        fill="#8884d8"
+                        fill="#164e63"
                         dataKey="total"
                         nameKey="name"
                         label={({ name, percentage }) => `${name}: ${percentage}%`}
@@ -362,7 +362,7 @@ export default function ProvinceForecasting() {
                       <YAxis />
                       <Tooltip formatter={(value) => [`${value.toLocaleString()} tourists`, "Total"]} />
                       <Legend />
-                      <Bar dataKey="value" fill="#82ca9d" name="Tourist Arrivals" />
+                      <Bar dataKey="value" fill="#064e3b" name="Tourist Arrivals" />
                     </BarChart>
                   </ResponsiveContainer>
                 </div>
@@ -376,7 +376,7 @@ export default function ProvinceForecasting() {
                         cy="50%"
                         labelLine={false}
                         outerRadius={150}
-                        fill="#8884d8"
+                        fill="#164e63"
                         dataKey="value"
                         nameKey="name"
                         label={({ name, value, percent }) => `${name}: ${(percent * 100).toFixed(1)}%`}
@@ -410,7 +410,7 @@ export default function ProvinceForecasting() {
                     <YAxis />
                     <Tooltip formatter={(value) => [`${value.toLocaleString()} tourists`, "Arrivals"]} />
                     <Legend />
-                    <Bar dataKey="tourists" fill="#ffc658" name="Tourist Arrivals" />
+                    <Bar dataKey="tourists" fill="#d97706" name="Tourist Arrivals" />
                   </BarChart>
                 </ResponsiveContainer>
               </div>
