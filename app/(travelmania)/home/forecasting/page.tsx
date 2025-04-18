@@ -1,6 +1,7 @@
 import React from 'react'
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import TourismLineChart from '@/components/charts/TourismLineChart';
+import { TourismCountryPurposeArrivalChart } from '@/components/purpose-base-predict-chart';
 
 const Forecasting = () => {
   return (
@@ -16,6 +17,7 @@ const Forecasting = () => {
         </CardHeader>
         <CardContent>
           <TourismLineChart />
+          <TourismCountryPurposeArrivalChart/>
         </CardContent>
       </Card>
         </div>

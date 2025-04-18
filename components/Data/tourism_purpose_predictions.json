@@ -1,0 +1,2522 @@
+[
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "India",
+        "total_tourists": 36127,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 29599,
+                "subcategories": {
+                    "sun_and_beach": 10157,
+                    "sightseeing": 8932,
+                    "cultural_events": 4760,
+                    "historical_sites": 3908,
+                    "wildlife": 2092
+                }
+            },
+            "visiting_friends": 4282,
+            "business": 1227,
+            "other": 965
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "India",
+        "total_tourists": 32119,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 26248,
+                "subcategories": {
+                    "sun_and_beach": 8883,
+                    "sightseeing": 7870,
+                    "cultural_events": 4134,
+                    "historical_sites": 3408,
+                    "wildlife": 1800
+                }
+            },
+            "visiting_friends": 3637,
+            "business": 1096,
+            "other": 890
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "India",
+        "total_tourists": 27520,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 22565,
+                "subcategories": {
+                    "sun_and_beach": 7654,
+                    "sightseeing": 6755,
+                    "cultural_events": 3588,
+                    "historical_sites": 2911,
+                    "wildlife": 1556
+                }
+            },
+            "visiting_friends": 3287,
+            "business": 995,
+            "other": 815
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "India",
+        "total_tourists": 24655,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 19940,
+                "subcategories": {
+                    "sun_and_beach": 6792,
+                    "sightseeing": 6040,
+                    "cultural_events": 3201,
+                    "historical_sites": 2616,
+                    "wildlife": 1405
+                }
+            },
+            "visiting_friends": 2852,
+            "business": 890,
+            "other": 626
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "India",
+        "total_tourists": 18927,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 15574,
+                "subcategories": {
+                    "sun_and_beach": 5170,
+                    "sightseeing": 4657,
+                    "cultural_events": 2465,
+                    "historical_sites": 1976,
+                    "wildlife": 1095
+                }
+            },
+            "visiting_friends": 2383,
+            "business": 646,
+            "other": 474
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "India",
+        "total_tourists": 16946,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 13692,
+                "subcategories": {
+                    "sun_and_beach": 4674,
+                    "sightseeing": 4107,
+                    "cultural_events": 2190,
+                    "historical_sites": 1788,
+                    "wildlife": 960
+                }
+            },
+            "visiting_friends": 2117,
+            "business": 572,
+            "other": 413
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "India",
+        "total_tourists": 19218,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 15575,
+                "subcategories": {
+                    "sun_and_beach": 5307,
+                    "sightseeing": 4692,
+                    "cultural_events": 2525,
+                    "historical_sites": 2044,
+                    "wildlife": 1104
+                }
+            },
+            "visiting_friends": 2416,
+            "business": 652,
+            "other": 472
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "India",
+        "total_tourists": 21114,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 17295,
+                "subcategories": {
+                    "sun_and_beach": 5880,
+                    "sightseeing": 5201,
+                    "cultural_events": 2773,
+                    "historical_sites": 2235,
+                    "wildlife": 1221
+                }
+            },
+            "visiting_friends": 2607,
+            "business": 759,
+            "other": 516
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "India",
+        "total_tourists": 23045,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 18818,
+                "subcategories": {
+                    "sun_and_beach": 6371,
+                    "sightseeing": 5597,
+                    "cultural_events": 2997,
+                    "historical_sites": 2462,
+                    "wildlife": 1319
+                }
+            },
+            "visiting_friends": 2997,
+            "business": 825,
+            "other": 573
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "India",
+        "total_tourists": 25833,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 20990,
+                "subcategories": {
+                    "sun_and_beach": 7080,
+                    "sightseeing": 6254,
+                    "cultural_events": 3344,
+                    "historical_sites": 2719,
+                    "wildlife": 1472
+                }
+            },
+            "visiting_friends": 3302,
+            "business": 911,
+            "other": 615
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "India",
+        "total_tourists": 29553,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 24077,
+                "subcategories": {
+                    "sun_and_beach": 8232,
+                    "sightseeing": 7221,
+                    "cultural_events": 3870,
+                    "historical_sites": 3120,
+                    "wildlife": 1696
+                }
+            },
+            "visiting_friends": 3659,
+            "business": 1030,
+            "other": 694
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "India",
+        "total_tourists": 35519,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 29152,
+                "subcategories": {
+                    "sun_and_beach": 9912,
+                    "sightseeing": 8741,
+                    "cultural_events": 4616,
+                    "historical_sites": 3755,
+                    "wildlife": 2033
+                }
+            },
+            "visiting_friends": 4279,
+            "business": 1230,
+            "other": 799
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Russian Federation",
+        "total_tourists": 23723,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 19716,
+                "subcategories": {
+                    "sun_and_beach": 6754,
+                    "sightseeing": 5906,
+                    "cultural_events": 3129,
+                    "historical_sites": 2572,
+                    "wildlife": 1380
+                }
+            },
+            "visiting_friends": 2612,
+            "business": 989,
+            "other": 545
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Russian Federation",
+        "total_tourists": 18940,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 15190,
+                "subcategories": {
+                    "sun_and_beach": 5144,
+                    "sightseeing": 4664,
+                    "cultural_events": 2426,
+                    "historical_sites": 1962,
+                    "wildlife": 1063
+                }
+            },
+            "visiting_friends": 2264,
+            "business": 761,
+            "other": 438
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Russian Federation",
+        "total_tourists": 16567,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 13554,
+                "subcategories": {
+                    "sun_and_beach": 4575,
+                    "sightseeing": 4049,
+                    "cultural_events": 2141,
+                    "historical_sites": 1752,
+                    "wildlife": 941
+                }
+            },
+            "visiting_friends": 1932,
+            "business": 618,
+            "other": 400
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Russian Federation",
+        "total_tourists": 13695,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 11192,
+                "subcategories": {
+                    "sun_and_beach": 3814,
+                    "sightseeing": 3372,
+                    "cultural_events": 1806,
+                    "historical_sites": 1465,
+                    "wildlife": 788
+                }
+            },
+            "visiting_friends": 1655,
+            "business": 520,
+            "other": 366
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Russian Federation",
+        "total_tourists": 11712,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9580,
+                "subcategories": {
+                    "sun_and_beach": 3279,
+                    "sightseeing": 2857,
+                    "cultural_events": 1540,
+                    "historical_sites": 1257,
+                    "wildlife": 668
+                }
+            },
+            "visiting_friends": 1459,
+            "business": 422,
+            "other": 292
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Russian Federation",
+        "total_tourists": 10442,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8150,
+                "subcategories": {
+                    "sun_and_beach": 2882,
+                    "sightseeing": 2519,
+                    "cultural_events": 1336,
+                    "historical_sites": 1081,
+                    "wildlife": 578
+                }
+            },
+            "visiting_friends": 1291,
+            "business": 366,
+            "other": 271
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Russian Federation",
+        "total_tourists": 11750,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9512,
+                "subcategories": {
+                    "sun_and_beach": 3266,
+                    "sightseeing": 2843,
+                    "cultural_events": 1540,
+                    "historical_sites": 1242,
+                    "wildlife": 674
+                }
+            },
+            "visiting_friends": 1416,
+            "business": 422,
+            "other": 294
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Russian Federation",
+        "total_tourists": 12813,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10399,
+                "subcategories": {
+                    "sun_and_beach": 3561,
+                    "sightseeing": 3152,
+                    "cultural_events": 1667,
+                    "historical_sites": 1345,
+                    "wildlife": 724
+                }
+            },
+            "visiting_friends": 1582,
+            "business": 493,
+            "other": 334
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Russian Federation",
+        "total_tourists": 14601,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 11962,
+                "subcategories": {
+                    "sun_and_beach": 4040,
+                    "sightseeing": 3606,
+                    "cultural_events": 1901,
+                    "historical_sites": 1547,
+                    "wildlife": 831
+                }
+            },
+            "visiting_friends": 1729,
+            "business": 559,
+            "other": 361
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Russian Federation",
+        "total_tourists": 16269,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 13307,
+                "subcategories": {
+                    "sun_and_beach": 4524,
+                    "sightseeing": 4010,
+                    "cultural_events": 2133,
+                    "historical_sites": 1741,
+                    "wildlife": 933
+                }
+            },
+            "visiting_friends": 1943,
+            "business": 630,
+            "other": 416
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Russian Federation",
+        "total_tourists": 18244,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 14949,
+                "subcategories": {
+                    "sun_and_beach": 5055,
+                    "sightseeing": 4480,
+                    "cultural_events": 2401,
+                    "historical_sites": 1941,
+                    "wildlife": 1051
+                }
+            },
+            "visiting_friends": 2238,
+            "business": 717,
+            "other": 472
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Russian Federation",
+        "total_tourists": 21242,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 17268,
+                "subcategories": {
+                    "sun_and_beach": 5879,
+                    "sightseeing": 5182,
+                    "cultural_events": 2772,
+                    "historical_sites": 2243,
+                    "wildlife": 1214
+                }
+            },
+            "visiting_friends": 2589,
+            "business": 839,
+            "other": 540
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "United Kingdom",
+        "total_tourists": 16405,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 13151,
+                "subcategories": {
+                    "sun_and_beach": 4423,
+                    "sightseeing": 3997,
+                    "cultural_events": 2079,
+                    "historical_sites": 1648,
+                    "wildlife": 910
+                }
+            },
+            "visiting_friends": 1578,
+            "business": 728,
+            "other": 411
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "United Kingdom",
+        "total_tourists": 13205,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10860,
+                "subcategories": {
+                    "sun_and_beach": 3669,
+                    "sightseeing": 3281,
+                    "cultural_events": 1749,
+                    "historical_sites": 1402,
+                    "wildlife": 755
+                }
+            },
+            "visiting_friends": 1316,
+            "business": 565,
+            "other": 377
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "United Kingdom",
+        "total_tourists": 11960,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9829,
+                "subcategories": {
+                    "sun_and_beach": 3418,
+                    "sightseeing": 2854,
+                    "cultural_events": 1571,
+                    "historical_sites": 1263,
+                    "wildlife": 693
+                }
+            },
+            "visiting_friends": 1306,
+            "business": 479,
+            "other": 325
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "United Kingdom",
+        "total_tourists": 10126,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8287,
+                "subcategories": {
+                    "sun_and_beach": 2967,
+                    "sightseeing": 2481,
+                    "cultural_events": 1340,
+                    "historical_sites": 1084,
+                    "wildlife": 571
+                }
+            },
+            "visiting_friends": 1191,
+            "business": 392,
+            "other": 279
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "United Kingdom",
+        "total_tourists": 9737,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8525,
+                "subcategories": {
+                    "sun_and_beach": 2866,
+                    "sightseeing": 2421,
+                    "cultural_events": 1297,
+                    "historical_sites": 1114,
+                    "wildlife": 585
+                }
+            },
+            "visiting_friends": 1243,
+            "business": 365,
+            "other": 248
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "United Kingdom",
+        "total_tourists": 9082,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7510,
+                "subcategories": {
+                    "sun_and_beach": 2513,
+                    "sightseeing": 2241,
+                    "cultural_events": 1194,
+                    "historical_sites": 985,
+                    "wildlife": 545
+                }
+            },
+            "visiting_friends": 1099,
+            "business": 327,
+            "other": 210
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "United Kingdom",
+        "total_tourists": 10462,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8594,
+                "subcategories": {
+                    "sun_and_beach": 2901,
+                    "sightseeing": 2560,
+                    "cultural_events": 1367,
+                    "historical_sites": 1117,
+                    "wildlife": 599
+                }
+            },
+            "visiting_friends": 1251,
+            "business": 382,
+            "other": 229
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "United Kingdom",
+        "total_tourists": 11882,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9740,
+                "subcategories": {
+                    "sun_and_beach": 3315,
+                    "sightseeing": 2910,
+                    "cultural_events": 1559,
+                    "historical_sites": 1263,
+                    "wildlife": 688
+                }
+            },
+            "visiting_friends": 1374,
+            "business": 437,
+            "other": 259
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "United Kingdom",
+        "total_tourists": 12582,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10234,
+                "subcategories": {
+                    "sun_and_beach": 3502,
+                    "sightseeing": 3087,
+                    "cultural_events": 1635,
+                    "historical_sites": 1322,
+                    "wildlife": 717
+                }
+            },
+            "visiting_friends": 1514,
+            "business": 484,
+            "other": 287
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "United Kingdom",
+        "total_tourists": 14209,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 11561,
+                "subcategories": {
+                    "sun_and_beach": 3918,
+                    "sightseeing": 3483,
+                    "cultural_events": 1857,
+                    "historical_sites": 1503,
+                    "wildlife": 812
+                }
+            },
+            "visiting_friends": 1701,
+            "business": 550,
+            "other": 339
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "United Kingdom",
+        "total_tourists": 16346,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 13361,
+                "subcategories": {
+                    "sun_and_beach": 4552,
+                    "sightseeing": 4006,
+                    "cultural_events": 2154,
+                    "historical_sites": 1741,
+                    "wildlife": 935
+                }
+            },
+            "visiting_friends": 1948,
+            "business": 629,
+            "other": 387
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "United Kingdom",
+        "total_tourists": 19221,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 15481,
+                "subcategories": {
+                    "sun_and_beach": 5206,
+                    "sightseeing": 4627,
+                    "cultural_events": 2483,
+                    "historical_sites": 2018,
+                    "wildlife": 1089
+                }
+            },
+            "visiting_friends": 2288,
+            "business": 736,
+            "other": 460
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Germany",
+        "total_tourists": 12105,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9505,
+                "subcategories": {
+                    "sun_and_beach": 3228,
+                    "sightseeing": 2870,
+                    "cultural_events": 1519,
+                    "historical_sites": 1237,
+                    "wildlife": 667
+                }
+            },
+            "visiting_friends": 1344,
+            "business": 522,
+            "other": 376
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Germany",
+        "total_tourists": 9808,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7804,
+                "subcategories": {
+                    "sun_and_beach": 2689,
+                    "sightseeing": 2362,
+                    "cultural_events": 1268,
+                    "historical_sites": 1017,
+                    "wildlife": 549
+                }
+            },
+            "visiting_friends": 1201,
+            "business": 376,
+            "other": 317
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Germany",
+        "total_tourists": 9223,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7713,
+                "subcategories": {
+                    "sun_and_beach": 2612,
+                    "sightseeing": 2254,
+                    "cultural_events": 1181,
+                    "historical_sites": 979,
+                    "wildlife": 540
+                }
+            },
+            "visiting_friends": 1495,
+            "business": 353,
+            "other": 280
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Germany",
+        "total_tourists": 8172,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6537,
+                "subcategories": {
+                    "sun_and_beach": 2236,
+                    "sightseeing": 1975,
+                    "cultural_events": 1061,
+                    "historical_sites": 853,
+                    "wildlife": 457
+                }
+            },
+            "visiting_friends": 1198,
+            "business": 289,
+            "other": 239
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Germany",
+        "total_tourists": 7509,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5997,
+                "subcategories": {
+                    "sun_and_beach": 2041,
+                    "sightseeing": 1797,
+                    "cultural_events": 967,
+                    "historical_sites": 777,
+                    "wildlife": 412
+                }
+            },
+            "visiting_friends": 1433,
+            "business": 240,
+            "other": 160
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Germany",
+        "total_tourists": 6816,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5480,
+                "subcategories": {
+                    "sun_and_beach": 1882,
+                    "sightseeing": 1646,
+                    "cultural_events": 879,
+                    "historical_sites": 719,
+                    "wildlife": 379
+                }
+            },
+            "visiting_friends": 1168,
+            "business": 217,
+            "other": 148
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Germany",
+        "total_tourists": 8043,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6457,
+                "subcategories": {
+                    "sun_and_beach": 2190,
+                    "sightseeing": 1935,
+                    "cultural_events": 1034,
+                    "historical_sites": 841,
+                    "wildlife": 452
+                }
+            },
+            "visiting_friends": 1268,
+            "business": 255,
+            "other": 175
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Germany",
+        "total_tourists": 8845,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7220,
+                "subcategories": {
+                    "sun_and_beach": 2461,
+                    "sightseeing": 2169,
+                    "cultural_events": 1160,
+                    "historical_sites": 942,
+                    "wildlife": 509
+                }
+            },
+            "visiting_friends": 1349,
+            "business": 298,
+            "other": 199
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Germany",
+        "total_tourists": 10201,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8321,
+                "subcategories": {
+                    "sun_and_beach": 2821,
+                    "sightseeing": 2482,
+                    "cultural_events": 1323,
+                    "historical_sites": 1084,
+                    "wildlife": 581
+                }
+            },
+            "visiting_friends": 1457,
+            "business": 326,
+            "other": 216
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Germany",
+        "total_tourists": 11661,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9444,
+                "subcategories": {
+                    "sun_and_beach": 3182,
+                    "sightseeing": 2841,
+                    "cultural_events": 1495,
+                    "historical_sites": 1217,
+                    "wildlife": 664
+                }
+            },
+            "visiting_friends": 1578,
+            "business": 378,
+            "other": 241
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Germany",
+        "total_tourists": 13069,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10565,
+                "subcategories": {
+                    "sun_and_beach": 3582,
+                    "sightseeing": 3187,
+                    "cultural_events": 1701,
+                    "historical_sites": 1377,
+                    "wildlife": 743
+                }
+            },
+            "visiting_friends": 1719,
+            "business": 442,
+            "other": 279
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Germany",
+        "total_tourists": 15965,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 13011,
+                "subcategories": {
+                    "sun_and_beach": 4427,
+                    "sightseeing": 3919,
+                    "cultural_events": 2087,
+                    "historical_sites": 1686,
+                    "wildlife": 912
+                }
+            },
+            "visiting_friends": 2053,
+            "business": 526,
+            "other": 348
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "China",
+        "total_tourists": 12327,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9604,
+                "subcategories": {
+                    "sun_and_beach": 3304,
+                    "sightseeing": 2956,
+                    "cultural_events": 1578,
+                    "historical_sites": 1265,
+                    "wildlife": 681
+                }
+            },
+            "visiting_friends": 1329,
+            "business": 531,
+            "other": 371
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "China",
+        "total_tourists": 10541,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8613,
+                "subcategories": {
+                    "sun_and_beach": 2991,
+                    "sightseeing": 2619,
+                    "cultural_events": 1394,
+                    "historical_sites": 1147,
+                    "wildlife": 595
+                }
+            },
+            "visiting_friends": 1336,
+            "business": 411,
+            "other": 293
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "China",
+        "total_tourists": 9402,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7672,
+                "subcategories": {
+                    "sun_and_beach": 2591,
+                    "sightseeing": 2260,
+                    "cultural_events": 1215,
+                    "historical_sites": 971,
+                    "wildlife": 532
+                }
+            },
+            "visiting_friends": 1201,
+            "business": 344,
+            "other": 257
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "China",
+        "total_tourists": 8466,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6853,
+                "subcategories": {
+                    "sun_and_beach": 2305,
+                    "sightseeing": 2010,
+                    "cultural_events": 1068,
+                    "historical_sites": 882,
+                    "wildlife": 477
+                }
+            },
+            "visiting_friends": 1429,
+            "business": 293,
+            "other": 200
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "China",
+        "total_tourists": 7475,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6050,
+                "subcategories": {
+                    "sun_and_beach": 2077,
+                    "sightseeing": 1826,
+                    "cultural_events": 975,
+                    "historical_sites": 800,
+                    "wildlife": 426
+                }
+            },
+            "visiting_friends": 1145,
+            "business": 253,
+            "other": 173
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "China",
+        "total_tourists": 6806,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5475,
+                "subcategories": {
+                    "sun_and_beach": 1874,
+                    "sightseeing": 1644,
+                    "cultural_events": 883,
+                    "historical_sites": 716,
+                    "wildlife": 380
+                }
+            },
+            "visiting_friends": 1023,
+            "business": 222,
+            "other": 159
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "China",
+        "total_tourists": 8099,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6497,
+                "subcategories": {
+                    "sun_and_beach": 2211,
+                    "sightseeing": 1944,
+                    "cultural_events": 1039,
+                    "historical_sites": 845,
+                    "wildlife": 455
+                }
+            },
+            "visiting_friends": 1172,
+            "business": 264,
+            "other": 190
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "China",
+        "total_tourists": 8812,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7229,
+                "subcategories": {
+                    "sun_and_beach": 2474,
+                    "sightseeing": 2180,
+                    "cultural_events": 1160,
+                    "historical_sites": 941,
+                    "wildlife": 507
+                }
+            },
+            "visiting_friends": 1273,
+            "business": 305,
+            "other": 221
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "China",
+        "total_tourists": 10179,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8331,
+                "subcategories": {
+                    "sun_and_beach": 2818,
+                    "sightseeing": 2477,
+                    "cultural_events": 1321,
+                    "historical_sites": 1083,
+                    "wildlife": 580
+                }
+            },
+            "visiting_friends": 1351,
+            "business": 341,
+            "other": 244
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "China",
+        "total_tourists": 11700,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 9426,
+                "subcategories": {
+                    "sun_and_beach": 3184,
+                    "sightseeing": 2827,
+                    "cultural_events": 1501,
+                    "historical_sites": 1223,
+                    "wildlife": 660
+                }
+            },
+            "visiting_friends": 1520,
+            "business": 395,
+            "other": 278
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "China",
+        "total_tourists": 13035,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10528,
+                "subcategories": {
+                    "sun_and_beach": 3592,
+                    "sightseeing": 3200,
+                    "cultural_events": 1694,
+                    "historical_sites": 1372,
+                    "wildlife": 740
+                }
+            },
+            "visiting_friends": 1691,
+            "business": 459,
+            "other": 327
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "China",
+        "total_tourists": 15833,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 12943,
+                "subcategories": {
+                    "sun_and_beach": 4394,
+                    "sightseeing": 3896,
+                    "cultural_events": 2073,
+                    "historical_sites": 1676,
+                    "wildlife": 907
+                }
+            },
+            "visiting_friends": 2023,
+            "business": 531,
+            "other": 383
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Australia",
+        "total_tourists": 10409,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8681,
+                "subcategories": {
+                    "sun_and_beach": 3043,
+                    "sightseeing": 2839,
+                    "cultural_events": 1478,
+                    "historical_sites": 1126,
+                    "wildlife": 647
+                }
+            },
+            "visiting_friends": 1224,
+            "business": 367,
+            "other": 244
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Australia",
+        "total_tourists": 9631,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7826,
+                "subcategories": {
+                    "sun_and_beach": 2637,
+                    "sightseeing": 2305,
+                    "cultural_events": 1235,
+                    "historical_sites": 1024,
+                    "wildlife": 537
+                }
+            },
+            "visiting_friends": 1073,
+            "business": 315,
+            "other": 202
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Australia",
+        "total_tourists": 8587,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7087,
+                "subcategories": {
+                    "sun_and_beach": 2439,
+                    "sightseeing": 2139,
+                    "cultural_events": 1149,
+                    "historical_sites": 922,
+                    "wildlife": 503
+                }
+            },
+            "visiting_friends": 960,
+            "business": 291,
+            "other": 191
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Australia",
+        "total_tourists": 7356,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6006,
+                "subcategories": {
+                    "sun_and_beach": 2048,
+                    "sightseeing": 1806,
+                    "cultural_events": 950,
+                    "historical_sites": 784,
+                    "wildlife": 418
+                }
+            },
+            "visiting_friends": 884,
+            "business": 254,
+            "other": 166
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Australia",
+        "total_tourists": 6262,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5088,
+                "subcategories": {
+                    "sun_and_beach": 1742,
+                    "sightseeing": 1552,
+                    "cultural_events": 804,
+                    "historical_sites": 668,
+                    "wildlife": 355
+                }
+            },
+            "visiting_friends": 774,
+            "business": 211,
+            "other": 147
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Australia",
+        "total_tourists": 5594,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4578,
+                "subcategories": {
+                    "sun_and_beach": 1551,
+                    "sightseeing": 1362,
+                    "cultural_events": 729,
+                    "historical_sites": 590,
+                    "wildlife": 318
+                }
+            },
+            "visiting_friends": 704,
+            "business": 183,
+            "other": 132
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Australia",
+        "total_tourists": 6362,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5226,
+                "subcategories": {
+                    "sun_and_beach": 1783,
+                    "sightseeing": 1570,
+                    "cultural_events": 837,
+                    "historical_sites": 675,
+                    "wildlife": 365
+                }
+            },
+            "visiting_friends": 804,
+            "business": 219,
+            "other": 153
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Australia",
+        "total_tourists": 7380,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6038,
+                "subcategories": {
+                    "sun_and_beach": 2060,
+                    "sightseeing": 1820,
+                    "cultural_events": 967,
+                    "historical_sites": 784,
+                    "wildlife": 422
+                }
+            },
+            "visiting_friends": 886,
+            "business": 257,
+            "other": 178
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Australia",
+        "total_tourists": 8255,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6731,
+                "subcategories": {
+                    "sun_and_beach": 2282,
+                    "sightseeing": 2014,
+                    "cultural_events": 1074,
+                    "historical_sites": 874,
+                    "wildlife": 468
+                }
+            },
+            "visiting_friends": 999,
+            "business": 284,
+            "other": 197
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Australia",
+        "total_tourists": 9286,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7554,
+                "subcategories": {
+                    "sun_and_beach": 2568,
+                    "sightseeing": 2268,
+                    "cultural_events": 1208,
+                    "historical_sites": 980,
+                    "wildlife": 529
+                }
+            },
+            "visiting_friends": 1103,
+            "business": 322,
+            "other": 222
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Australia",
+        "total_tourists": 10521,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8584,
+                "subcategories": {
+                    "sun_and_beach": 2932,
+                    "sightseeing": 2589,
+                    "cultural_events": 1365,
+                    "historical_sites": 1124,
+                    "wildlife": 604
+                }
+            },
+            "visiting_friends": 1253,
+            "business": 383,
+            "other": 253
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Australia",
+        "total_tourists": 12662,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10384,
+                "subcategories": {
+                    "sun_and_beach": 3554,
+                    "sightseeing": 3093,
+                    "cultural_events": 1676,
+                    "historical_sites": 1353,
+                    "wildlife": 736
+                }
+            },
+            "visiting_friends": 1461,
+            "business": 455,
+            "other": 309
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "France",
+        "total_tourists": 10357,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8704,
+                "subcategories": {
+                    "sun_and_beach": 3039,
+                    "sightseeing": 2830,
+                    "cultural_events": 1474,
+                    "historical_sites": 1128,
+                    "wildlife": 644
+                }
+            },
+            "visiting_friends": 1221,
+            "business": 362,
+            "other": 229
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "France",
+        "total_tourists": 9558,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7864,
+                "subcategories": {
+                    "sun_and_beach": 2655,
+                    "sightseeing": 2315,
+                    "cultural_events": 1238,
+                    "historical_sites": 1027,
+                    "wildlife": 538
+                }
+            },
+            "visiting_friends": 1058,
+            "business": 307,
+            "other": 193
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "France",
+        "total_tourists": 8728,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7161,
+                "subcategories": {
+                    "sun_and_beach": 2461,
+                    "sightseeing": 2179,
+                    "cultural_events": 1167,
+                    "historical_sites": 936,
+                    "wildlife": 505
+                }
+            },
+            "visiting_friends": 970,
+            "business": 287,
+            "other": 176
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "France",
+        "total_tourists": 7398,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5988,
+                "subcategories": {
+                    "sun_and_beach": 2052,
+                    "sightseeing": 1824,
+                    "cultural_events": 954,
+                    "historical_sites": 784,
+                    "wildlife": 424
+                }
+            },
+            "visiting_friends": 876,
+            "business": 246,
+            "other": 156
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "France",
+        "total_tourists": 6260,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5099,
+                "subcategories": {
+                    "sun_and_beach": 1745,
+                    "sightseeing": 1556,
+                    "cultural_events": 812,
+                    "historical_sites": 668,
+                    "wildlife": 358
+                }
+            },
+            "visiting_friends": 764,
+            "business": 208,
+            "other": 139
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "France",
+        "total_tourists": 5596,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4576,
+                "subcategories": {
+                    "sun_and_beach": 1548,
+                    "sightseeing": 1359,
+                    "cultural_events": 730,
+                    "historical_sites": 590,
+                    "wildlife": 317
+                }
+            },
+            "visiting_friends": 700,
+            "business": 183,
+            "other": 125
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "France",
+        "total_tourists": 6349,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5224,
+                "subcategories": {
+                    "sun_and_beach": 1784,
+                    "sightseeing": 1570,
+                    "cultural_events": 836,
+                    "historical_sites": 676,
+                    "wildlife": 365
+                }
+            },
+            "visiting_friends": 803,
+            "business": 218,
+            "other": 150
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "France",
+        "total_tourists": 7302,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6030,
+                "subcategories": {
+                    "sun_and_beach": 2053,
+                    "sightseeing": 1812,
+                    "cultural_events": 962,
+                    "historical_sites": 780,
+                    "wildlife": 421
+                }
+            },
+            "visiting_friends": 886,
+            "business": 250,
+            "other": 178
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "France",
+        "total_tourists": 8091,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6638,
+                "subcategories": {
+                    "sun_and_beach": 2249,
+                    "sightseeing": 1980,
+                    "cultural_events": 1058,
+                    "historical_sites": 859,
+                    "wildlife": 461
+                }
+            },
+            "visiting_friends": 1000,
+            "business": 278,
+            "other": 197
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "France",
+        "total_tourists": 9105,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 7454,
+                "subcategories": {
+                    "sun_and_beach": 2550,
+                    "sightseeing": 2233,
+                    "cultural_events": 1191,
+                    "historical_sites": 967,
+                    "wildlife": 522
+                }
+            },
+            "visiting_friends": 1097,
+            "business": 311,
+            "other": 223
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "France",
+        "total_tourists": 10374,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 8493,
+                "subcategories": {
+                    "sun_and_beach": 2882,
+                    "sightseeing": 2542,
+                    "cultural_events": 1350,
+                    "historical_sites": 1102,
+                    "wildlife": 594
+                }
+            },
+            "visiting_friends": 1250,
+            "business": 348,
+            "other": 254
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "France",
+        "total_tourists": 12444,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 10224,
+                "subcategories": {
+                    "sun_and_beach": 3493,
+                    "sightseeing": 3053,
+                    "cultural_events": 1636,
+                    "historical_sites": 1330,
+                    "wildlife": 719
+                }
+            },
+            "visiting_friends": 1424,
+            "business": 424,
+            "other": 309
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "United States",
+        "total_tourists": 5773,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5036,
+                "subcategories": {
+                    "sun_and_beach": 1691,
+                    "sightseeing": 1498,
+                    "cultural_events": 797,
+                    "historical_sites": 654,
+                    "wildlife": 350
+                }
+            },
+            "visiting_friends": 670,
+            "business": 280,
+            "other": 180
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "United States",
+        "total_tourists": 5206,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4276,
+                "subcategories": {
+                    "sun_and_beach": 1461,
+                    "sightseeing": 1286,
+                    "cultural_events": 691,
+                    "historical_sites": 560,
+                    "wildlife": 300
+                }
+            },
+            "visiting_friends": 598,
+            "business": 200,
+            "other": 159
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "United States",
+        "total_tourists": 4774,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3957,
+                "subcategories": {
+                    "sun_and_beach": 1347,
+                    "sightseeing": 1187,
+                    "cultural_events": 632,
+                    "historical_sites": 514,
+                    "wildlife": 277
+                }
+            },
+            "visiting_friends": 536,
+            "business": 180,
+            "other": 149
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "United States",
+        "total_tourists": 4087,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3340,
+                "subcategories": {
+                    "sun_and_beach": 1143,
+                    "sightseeing": 1009,
+                    "cultural_events": 539,
+                    "historical_sites": 432,
+                    "wildlife": 236
+                }
+            },
+            "visiting_friends": 449,
+            "business": 135,
+            "other": 129
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "United States",
+        "total_tourists": 3553,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2949,
+                "subcategories": {
+                    "sun_and_beach": 1000,
+                    "sightseeing": 880,
+                    "cultural_events": 470,
+                    "historical_sites": 382,
+                    "wildlife": 205
+                }
+            },
+            "visiting_friends": 394,
+            "business": 123,
+            "other": 111
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "United States",
+        "total_tourists": 3254,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2687,
+                "subcategories": {
+                    "sun_and_beach": 913,
+                    "sightseeing": 808,
+                    "cultural_events": 430,
+                    "historical_sites": 350,
+                    "wildlife": 188
+                }
+            },
+            "visiting_friends": 359,
+            "business": 113,
+            "other": 102
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "United States",
+        "total_tourists": 3781,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3124,
+                "subcategories": {
+                    "sun_and_beach": 1061,
+                    "sightseeing": 936,
+                    "cultural_events": 498,
+                    "historical_sites": 407,
+                    "wildlife": 219
+                }
+            },
+            "visiting_friends": 406,
+            "business": 124,
+            "other": 121
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "United States",
+        "total_tourists": 4400,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3621,
+                "subcategories": {
+                    "sun_and_beach": 1232,
+                    "sightseeing": 1086,
+                    "cultural_events": 579,
+                    "historical_sites": 471,
+                    "wildlife": 254
+                }
+            },
+            "visiting_friends": 478,
+            "business": 144,
+            "other": 138
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "United States",
+        "total_tourists": 4857,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4046,
+                "subcategories": {
+                    "sun_and_beach": 1374,
+                    "sightseeing": 1212,
+                    "cultural_events": 645,
+                    "historical_sites": 525,
+                    "wildlife": 282
+                }
+            },
+            "visiting_friends": 523,
+            "business": 159,
+            "other": 150
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "United States",
+        "total_tourists": 5475,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4475,
+                "subcategories": {
+                    "sun_and_beach": 1521,
+                    "sightseeing": 1346,
+                    "cultural_events": 714,
+                    "historical_sites": 581,
+                    "wildlife": 314
+                }
+            },
+            "visiting_friends": 588,
+            "business": 185,
+            "other": 174
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "United States",
+        "total_tourists": 6054,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5012,
+                "subcategories": {
+                    "sun_and_beach": 1703,
+                    "sightseeing": 1502,
+                    "cultural_events": 800,
+                    "historical_sites": 650,
+                    "wildlife": 350
+                }
+            },
+            "visiting_friends": 671,
+            "business": 218,
+            "other": 196
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "United States",
+        "total_tourists": 7394,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6102,
+                "subcategories": {
+                    "sun_and_beach": 2075,
+                    "sightseeing": 1825,
+                    "cultural_events": 974,
+                    "historical_sites": 791,
+                    "wildlife": 425
+                }
+            },
+            "visiting_friends": 818,
+            "business": 267,
+            "other": 231
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Netherlands",
+        "total_tourists": 5509,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4533,
+                "subcategories": {
+                    "sun_and_beach": 1554,
+                    "sightseeing": 1356,
+                    "cultural_events": 730,
+                    "historical_sites": 594,
+                    "wildlife": 319
+                }
+            },
+            "visiting_friends": 596,
+            "business": 208,
+            "other": 110
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Netherlands",
+        "total_tourists": 4796,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3938,
+                "subcategories": {
+                    "sun_and_beach": 1340,
+                    "sightseeing": 1182,
+                    "cultural_events": 628,
+                    "historical_sites": 512,
+                    "wildlife": 274
+                }
+            },
+            "visiting_friends": 527,
+            "business": 176,
+            "other": 98
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Netherlands",
+        "total_tourists": 4173,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3428,
+                "subcategories": {
+                    "sun_and_beach": 1156,
+                    "sightseeing": 1023,
+                    "cultural_events": 548,
+                    "historical_sites": 442,
+                    "wildlife": 240
+                }
+            },
+            "visiting_friends": 472,
+            "business": 142,
+            "other": 88
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Netherlands",
+        "total_tourists": 4019,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3329,
+                "subcategories": {
+                    "sun_and_beach": 1135,
+                    "sightseeing": 1006,
+                    "cultural_events": 525,
+                    "historical_sites": 432,
+                    "wildlife": 232
+                }
+            },
+            "visiting_friends": 422,
+            "business": 130,
+            "other": 80
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Netherlands",
+        "total_tourists": 3428,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2819,
+                "subcategories": {
+                    "sun_and_beach": 962,
+                    "sightseeing": 849,
+                    "cultural_events": 454,
+                    "historical_sites": 366,
+                    "wildlife": 197
+                }
+            },
+            "visiting_friends": 371,
+            "business": 114,
+            "other": 73
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Netherlands",
+        "total_tourists": 3154,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2565,
+                "subcategories": {
+                    "sun_and_beach": 870,
+                    "sightseeing": 768,
+                    "cultural_events": 409,
+                    "historical_sites": 334,
+                    "wildlife": 179
+                }
+            },
+            "visiting_friends": 327,
+            "business": 107,
+            "other": 69
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Netherlands",
+        "total_tourists": 3654,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2955,
+                "subcategories": {
+                    "sun_and_beach": 1005,
+                    "sightseeing": 888,
+                    "cultural_events": 473,
+                    "historical_sites": 385,
+                    "wildlife": 206
+                }
+            },
+            "visiting_friends": 382,
+            "business": 118,
+            "other": 78
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Netherlands",
+        "total_tourists": 4074,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3340,
+                "subcategories": {
+                    "sun_and_beach": 1129,
+                    "sightseeing": 1000,
+                    "cultural_events": 534,
+                    "historical_sites": 434,
+                    "wildlife": 234
+                }
+            },
+            "visiting_friends": 446,
+            "business": 136,
+            "other": 91
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Netherlands",
+        "total_tourists": 4527,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3724,
+                "subcategories": {
+                    "sun_and_beach": 1270,
+                    "sightseeing": 1122,
+                    "cultural_events": 596,
+                    "historical_sites": 486,
+                    "wildlife": 261
+                }
+            },
+            "visiting_friends": 482,
+            "business": 151,
+            "other": 100
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Netherlands",
+        "total_tourists": 5261,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4340,
+                "subcategories": {
+                    "sun_and_beach": 1474,
+                    "sightseeing": 1296,
+                    "cultural_events": 696,
+                    "historical_sites": 565,
+                    "wildlife": 303
+                }
+            },
+            "visiting_friends": 538,
+            "business": 178,
+            "other": 115
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Netherlands",
+        "total_tourists": 5991,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4948,
+                "subcategories": {
+                    "sun_and_beach": 1686,
+                    "sightseeing": 1480,
+                    "cultural_events": 790,
+                    "historical_sites": 644,
+                    "wildlife": 346
+                }
+            },
+            "visiting_friends": 607,
+            "business": 206,
+            "other": 130
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Netherlands",
+        "total_tourists": 7328,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 6065,
+                "subcategories": {
+                    "sun_and_beach": 2050,
+                    "sightseeing": 1809,
+                    "cultural_events": 971,
+                    "historical_sites": 784,
+                    "wildlife": 423
+                }
+            },
+            "visiting_friends": 756,
+            "business": 252,
+            "other": 152
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Maldives",
+        "total_tourists": 5248,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4321,
+                "subcategories": {
+                    "sun_and_beach": 1480,
+                    "sightseeing": 1309,
+                    "cultural_events": 699,
+                    "historical_sites": 566,
+                    "wildlife": 306
+                }
+            },
+            "visiting_friends": 557,
+            "business": 210,
+            "other": 111
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Maldives",
+        "total_tourists": 4614,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3821,
+                "subcategories": {
+                    "sun_and_beach": 1302,
+                    "sightseeing": 1145,
+                    "cultural_events": 611,
+                    "historical_sites": 492,
+                    "wildlife": 267
+                }
+            },
+            "visiting_friends": 492,
+            "business": 176,
+            "other": 97
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Maldives",
+        "total_tourists": 4183,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3366,
+                "subcategories": {
+                    "sun_and_beach": 1143,
+                    "sightseeing": 1010,
+                    "cultural_events": 537,
+                    "historical_sites": 434,
+                    "wildlife": 236
+                }
+            },
+            "visiting_friends": 453,
+            "business": 143,
+            "other": 87
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Maldives",
+        "total_tourists": 3964,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3269,
+                "subcategories": {
+                    "sun_and_beach": 1114,
+                    "sightseeing": 982,
+                    "cultural_events": 524,
+                    "historical_sites": 423,
+                    "wildlife": 228
+                }
+            },
+            "visiting_friends": 398,
+            "business": 129,
+            "other": 79
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Maldives",
+        "total_tourists": 3380,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2754,
+                "subcategories": {
+                    "sun_and_beach": 935,
+                    "sightseeing": 826,
+                    "cultural_events": 443,
+                    "historical_sites": 360,
+                    "wildlife": 193
+                }
+            },
+            "visiting_friends": 358,
+            "business": 110,
+            "other": 72
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Maldives",
+        "total_tourists": 3160,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2574,
+                "subcategories": {
+                    "sun_and_beach": 871,
+                    "sightseeing": 770,
+                    "cultural_events": 411,
+                    "historical_sites": 335,
+                    "wildlife": 180
+                }
+            },
+            "visiting_friends": 325,
+            "business": 100,
+            "other": 65
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Maldives",
+        "total_tourists": 3638,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 2948,
+                "subcategories": {
+                    "sun_and_beach": 1001,
+                    "sightseeing": 886,
+                    "cultural_events": 472,
+                    "historical_sites": 384,
+                    "wildlife": 206
+                }
+            },
+            "visiting_friends": 376,
+            "business": 117,
+            "other": 76
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Maldives",
+        "total_tourists": 4045,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3296,
+                "subcategories": {
+                    "sun_and_beach": 1117,
+                    "sightseeing": 990,
+                    "cultural_events": 528,
+                    "historical_sites": 430,
+                    "wildlife": 230
+                }
+            },
+            "visiting_friends": 441,
+            "business": 135,
+            "other": 86
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Maldives",
+        "total_tourists": 4415,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 3660,
+                "subcategories": {
+                    "sun_and_beach": 1251,
+                    "sightseeing": 1107,
+                    "cultural_events": 587,
+                    "historical_sites": 479,
+                    "wildlife": 257
+                }
+            },
+            "visiting_friends": 481,
+            "business": 151,
+            "other": 99
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Maldives",
+        "total_tourists": 4999,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4129,
+                "subcategories": {
+                    "sun_and_beach": 1404,
+                    "sightseeing": 1237,
+                    "cultural_events": 661,
+                    "historical_sites": 537,
+                    "wildlife": 288
+                }
+            },
+            "visiting_friends": 538,
+            "business": 178,
+            "other": 112
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Maldives",
+        "total_tourists": 5584,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 4591,
+                "subcategories": {
+                    "sun_and_beach": 1554,
+                    "sightseeing": 1368,
+                    "cultural_events": 731,
+                    "historical_sites": 594,
+                    "wildlife": 321
+                }
+            },
+            "visiting_friends": 612,
+            "business": 207,
+            "other": 122
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Maldives",
+        "total_tourists": 6659,
+        "purposes": {
+            "holiday_pleasure": {
+                "total": 5476,
+                "subcategories": {
+                    "sun_and_beach": 1858,
+                    "sightseeing": 1636,
+                    "cultural_events": 873,
+                    "historical_sites": 705,
+                    "wildlife": 381
+                }
+            },
+            "visiting_friends": 743,
+            "business": 249,
+            "other": 146
+        }
+    }
+]

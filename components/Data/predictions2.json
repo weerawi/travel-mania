@@ -1,0 +1,9752 @@
+{
+  "Afghanistan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 26
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 22
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 21
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 16
+    }
+  ],
+  "Albania": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8
+    }
+  ],
+  "Algeria": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 33
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 24
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 29
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 27
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 29
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 30
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 30
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 33
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 36
+    }
+  ],
+  "Andorra": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Angola": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Antigua and Barbuda": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3
+    }
+  ],
+  "Argentina": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 102
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 66
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 66
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 74
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 40
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 39
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 39
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 40
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 45
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 72
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 89
+    }
+  ],
+  "Armenia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 449
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 278
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 230
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 304
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 302
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 311
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 312
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 315
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 317
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 441
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 486
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 497
+    }
+  ],
+  "Aruba": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Australia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 8375
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 8685
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 9639
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5332
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3924
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4289
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5494
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5708
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5778
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5749
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6700
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8110
+    }
+  ],
+  "Austria": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1531
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1904
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1923
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1005
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 492
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 463
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 859
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 808
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 552
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 790
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1260
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1389
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 179
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 151
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 237
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 191
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 156
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 168
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 207
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 205
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 171
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 176
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 209
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 209
+    }
+  ],
+  "Bahamas": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Bahrain": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 95
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 108
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 73
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 70
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 87
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 84
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 59
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 57
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 74
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 73
+    }
+  ],
+  "Bangladesh": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2549
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2550
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2560
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2295
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2194
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2208
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2220
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2217
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2263
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2535
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2673
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2730
+    }
+  ],
+  "Barbados": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Belarus": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1484
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1439
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1514
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1782
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1654
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1664
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1666
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1828
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1837
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1874
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1870
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1867
+    }
+  ],
+  "Belgium": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1585
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1430
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1148
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1116
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1076
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1062
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1213
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1131
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1134
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1111
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1031
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1055
+    }
+  ],
+  "Belize": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Benin": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Bhutan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 97
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 84
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 81
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 87
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 88
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 88
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 89
+    }
+  ],
+  "Bolivia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Bosnia and Herzegovina": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 33
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 40
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 24
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 24
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 21
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 22
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 16
+    }
+  ],
+  "Botswana": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8
+    }
+  ],
+  "Brazil": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 175
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 153
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 179
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 178
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 118
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 157
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 146
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 143
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 155
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 160
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 229
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 238
+    }
+  ],
+  "Brunei Darussalam": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 6
+    }
+  ],
+  "Bulgaria": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 563
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 569
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 430
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 302
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 286
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 191
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 121
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 152
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 167
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 182
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 234
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 280
+    }
+  ],
+  "Burkina Faso": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Burundi": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Cambodia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 39
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 65
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 269
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 387
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 401
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 313
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 309
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 225
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 225
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 308
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 225
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 228
+    }
+  ],
+  "Cameroon": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Canada": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2614
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2652
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3106
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2937
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2647
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2872
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2816
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2555
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2326
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2089
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2051
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2112
+    }
+  ],
+  "Cape Verde": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Central African Republic": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 7
+    }
+  ],
+  "Chad": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Chile": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 37
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 29
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 25
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 27
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 22
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 20
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 21
+    }
+  ],
+  "China": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 10364
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 11102
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 10415
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 8377
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 6824
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 7192
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 9970
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 10803
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 11537
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 10844
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 8639
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8341
+    }
+  ],
+  "Colombia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 46
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 36
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 54
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 40
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 40
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 43
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 47
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 47
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 54
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 60
+    }
+  ],
+  "Comoros": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Congo, The Democratic Republic": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Costa Rica": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 7
+    }
+  ],
+  "Cote Divoire": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Croatia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 254
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 235
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 215
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 209
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 172
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 208
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 184
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 217
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 185
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 224
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 217
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 215
+    }
+  ],
+  "Cuba": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3
+    }
+  ],
+  "Cyprus": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 106
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 105
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 70
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 121
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 87
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 100
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 120
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 54
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 80
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 67
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 103
+    }
+  ],
+  "Czech Republic": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1050
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1407
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1331
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 557
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 350
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 384
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 434
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 256
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 235
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 441
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 829
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 828
+    }
+  ],
+  "Denmark": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1364
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1531
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 901
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 883
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 678
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 772
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1256
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 736
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 745
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 816
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 873
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 934
+    }
+  ],
+  "Djibouti": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Dominica": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 13
+    }
+  ],
+  "Dominican Republic": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 7
+    }
+  ],
+  "Ecuador": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 14
+    }
+  ],
+  "Egypt": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 362
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 460
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 427
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 408
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 383
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 389
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 395
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 392
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 404
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 406
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 406
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 406
+    }
+  ],
+  "El Salvador": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4
+    }
+  ],
+  "Equatorial Guinea": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Eritrea": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4
+    }
+  ],
+  "Estonia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 321
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 420
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 356
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 340
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 354
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 290
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 165
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 69
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 146
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 210
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 261
+    }
+  ],
+  "Ethiopia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 11
+    }
+  ],
+  "Fiji": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 16
+    }
+  ],
+  "Finland": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 616
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 657
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 428
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 135
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 136
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 173
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 115
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 106
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 129
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 169
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 309
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 314
+    }
+  ],
+  "France": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7671
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 8756
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 7772
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5982
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4273
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4449
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6625
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 6471
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4261
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3841
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4882
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 6265
+    }
+  ],
+  "Gabon": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Gambia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Georgia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 118
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 115
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 94
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 83
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 46
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 29
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 43
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 66
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 65
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 76
+    }
+  ],
+  "Germany": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 10940
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 10172
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 12043
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 9203
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8539
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 8811
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 8974
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 9293
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 8411
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 10525
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 13674
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 12467
+    }
+  ],
+  "Ghana": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Greece": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 202
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 251
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 254
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 211
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 167
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 106
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 137
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 101
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 105
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 107
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 84
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 112
+    }
+  ],
+  "Grenada": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Guatemala": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4
+    }
+  ],
+  "Guinea": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Guinea-Bissau": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Guyana": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3
+    }
+  ],
+  "Haiti": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Honduras": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Hong Kong": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Hungary": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 977
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1204
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1221
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1069
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 998
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 998
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 999
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 999
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 998
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1023
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 989
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 995
+    }
+  ],
+  "Iceland": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 35
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 31
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 21
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 21
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 20
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 23
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 25
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 19
+    }
+  ],
+  "India": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 31796
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 30673
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 31964
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 28936
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 22939
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 25331
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 30546
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 35538
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 32043
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 33691
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 36337
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 37662
+    }
+  ],
+  "Indonesia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 308
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 369
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 273
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 256
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 264
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 269
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 258
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 257
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 288
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 207
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 243
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 170
+    }
+  ],
+  "Iran": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 809
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 799
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1698
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 743
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 856
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 994
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 814
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 824
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1315
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1082
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1176
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1422
+    }
+  ],
+  "Iraq": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 70
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 91
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 68
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 76
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 72
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 78
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 82
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 72
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 72
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 84
+    }
+  ],
+  "Ireland": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 614
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 660
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 646
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 398
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 325
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 555
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 445
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 368
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 428
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 510
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 534
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 566
+    }
+  ],
+  "Israel": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1771
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1624
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1830
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1213
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1057
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2065
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2155
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1641
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2302
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1118
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 483
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1567
+    }
+  ],
+  "Italy": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3764
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3148
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3789
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3687
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3548
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3679
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3827
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3782
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3695
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3906
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4078
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4125
+    }
+  ],
+  "Jamaica": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 7
+    }
+  ],
+  "Japan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2529
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2422
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2587
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2171
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2024
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2321
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2063
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2131
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2524
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2591
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2661
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3149
+    }
+  ],
+  "Jordan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 287
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 246
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 276
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 277
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 218
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 247
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 319
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 320
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 283
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 294
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 295
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 292
+    }
+  ],
+  "Kazakhstan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1004
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1802
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1672
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 957
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 991
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1110
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1047
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1000
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1000
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1087
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1197
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1736
+    }
+  ],
+  "Kenya": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 117
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 44
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 142
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 139
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 82
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 64
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 151
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 157
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 91
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 88
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 114
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 168
+    }
+  ],
+  "Kiribati": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Kosovar": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Kuwait": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 140
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 120
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 108
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 121
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 100
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 60
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 46
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 60
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 71
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 76
+    }
+  ],
+  "Kyrgyzstan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 102
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 101
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 116
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 102
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 109
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 112
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 119
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 119
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 111
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 112
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 129
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 229
+    }
+  ],
+  "Lao Peoples ": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8
+    }
+  ],
+  "Latvia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 604
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 621
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 610
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 488
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 488
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 488
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 488
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 488
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 488
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 495
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 451
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 451
+    }
+  ],
+  "Lebanon": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 180
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 271
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 375
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 365
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 281
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 447
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 401
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 405
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 429
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 434
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 334
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 437
+    }
+  ],
+  "Lesotho": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Liberia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Libya": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 12
+    }
+  ],
+  "Liechtenstein": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 9
+    }
+  ],
+  "Lithuania": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1041
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1173
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1117
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1047
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1046
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1046
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1046
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1046
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1046
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1059
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1069
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1069
+    }
+  ],
+  "Luxembourg": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 59
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 73
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 101
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 23
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 59
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 62
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 55
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 56
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 52
+    }
+  ],
+  "Macedonia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 21
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 20
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 18
+    }
+  ],
+  "Madagascar": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 12
+    }
+  ],
+  "Malawi": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 7
+    }
+  ],
+  "Malaysia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1166
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1280
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1544
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 920
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 886
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 849
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 887
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 964
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 997
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 989
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 910
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1043
+    }
+  ],
+  "Maldives": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3046
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2309
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3526
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2737
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2995
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3588
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3635
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3412
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3413
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3530
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3864
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4338
+    }
+  ],
+  "Mali": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Malta": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 100
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 98
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 82
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 83
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 90
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 85
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 85
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 84
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 87
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 91
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 130
+    }
+  ],
+  "Marshall Islands": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Mauritania": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Mauritius": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 86
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 81
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 88
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 82
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 87
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 96
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 91
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 95
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 97
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 96
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 113
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 179
+    }
+  ],
+  "Mexico": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 99
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 90
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 87
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 65
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 64
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 70
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 71
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 76
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 80
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 90
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 89
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 183
+    }
+  ],
+  "Micronesia ": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Moldova": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 105
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 122
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 125
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 96
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 96
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 97
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 97
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 97
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 97
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 100
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 125
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 116
+    }
+  ],
+  "Monaco": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 6
+    }
+  ],
+  "Mongolia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 24
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 9
+    }
+  ],
+  "Montenegro": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 23
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 6
+    }
+  ],
+  "Morocco": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 50
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 63
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 83
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 73
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 57
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 77
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 80
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 77
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 69
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 75
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 92
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 90
+    }
+  ],
+  "Mozambique": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Myanmar": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 110
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 95
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 76
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 84
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 82
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 71
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 72
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 81
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 78
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 80
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 59
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 68
+    }
+  ],
+  "Namibia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4
+    }
+  ],
+  "Nauru": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Nepal": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 462
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 458
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 468
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 466
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 461
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 465
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 503
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 457
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 447
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 458
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 467
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 458
+    }
+  ],
+  "Netherlands": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3976
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3621
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3675
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3341
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3206
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 3447
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3754
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3029
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2986
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2744
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2193
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2663
+    }
+  ],
+  "New Zealand": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 495
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 482
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 509
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 472
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 361
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 420
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 496
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 449
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 490
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 478
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 529
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 688
+    }
+  ],
+  "Nicaragua": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Niger": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Nigeria": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2
+    }
+  ],
+  "Norway": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 973
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 881
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1340
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1152
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 832
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1452
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1346
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 621
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 676
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 678
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 830
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1052
+    }
+  ],
+  "Oman": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 179
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 175
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 106
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 111
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 112
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 94
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 103
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 73
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 54
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 62
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 79
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 116
+    }
+  ],
+  "Pakistan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1281
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 843
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 906
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 971
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 986
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1036
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1044
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 969
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 952
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1009
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1146
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1241
+    }
+  ],
+  "Palau": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Palestinian Territories": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 43
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 43
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 52
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 46
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 63
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 67
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 57
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 42
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 42
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 52
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 49
+    }
+  ],
+  "Panama": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Papua New Guinea": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8
+    }
+  ],
+  "Paraguay": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Peru": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 18
+    }
+  ],
+  "Philippines": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 298
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 395
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 285
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 273
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 251
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 217
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 200
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 195
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 183
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 177
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 181
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 185
+    }
+  ],
+  "Poland": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 6224
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 6221
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5417
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5113
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5113
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5152
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5150
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5150
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5214
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5563
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 5580
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5582
+    }
+  ],
+  "Portugal": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 499
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 654
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 634
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 646
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 457
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 522
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 446
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 539
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 514
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 540
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 532
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 551
+    }
+  ],
+  "Qatar": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 51
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 66
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 55
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 55
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 54
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 52
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 50
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 49
+    }
+  ],
+  "Romania": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 663
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 742
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 645
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 463
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 221
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 170
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 180
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 245
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 225
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 275
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 391
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 458
+    }
+  ],
+  "Russian Federation": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 29991
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 29164
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 28417
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 28858
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 18057
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 17128
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 16556
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 13606
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 13430
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 17172
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 22599
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 25987
+    }
+  ],
+  "Rwanda": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Saint Kitts and Nevis": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 18
+    }
+  ],
+  "Saint Lucia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Saint Vincent The Grenadi": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Samoa": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "San Marino": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 419
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 501
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 675
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 550
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 518
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 764
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 516
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 377
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 299
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 292
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 293
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 260
+    }
+  ],
+  "Senegal": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Serbia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 222
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 169
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 121
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 151
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 114
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 121
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 141
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 126
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 139
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 167
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 171
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 188
+    }
+  ],
+  "Seychelles": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 171
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 171
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 171
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 171
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 173
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 172
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 172
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 168
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 158
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 168
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 172
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 177
+    }
+  ],
+  "Sierra Leone": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 4
+    }
+  ],
+  "Singapore": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 956
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1310
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1461
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1090
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1213
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1292
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1261
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1316
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1313
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1276
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1360
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1498
+    }
+  ],
+  "Slovakia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 721
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 883
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 763
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 630
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 520
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 353
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 359
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 255
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 323
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 366
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 354
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 353
+    }
+  ],
+  "Slovenia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 362
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 443
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 306
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 226
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 207
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 157
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 202
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 195
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 198
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 214
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 217
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 239
+    }
+  ],
+  "Solomon Islands": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Somalia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 9
+    }
+  ],
+  "South Africa-Zuid Afrika": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 211
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 198
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 308
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 347
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 114
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 153
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 228
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 240
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 149
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 212
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 374
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 367
+    }
+  ],
+  "South Korea ": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 753
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 593
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 485
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 459
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 483
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 524
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 583
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 600
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 589
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 612
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 593
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 631
+    }
+  ],
+  "South Sudan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Spain": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2136
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2380
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2260
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2585
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2675
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2674
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3154
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3223
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2463
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2513
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2631
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 2467
+    }
+  ],
+  "Sudan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 117
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 122
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 116
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 94
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 98
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 96
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 96
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 93
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 100
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 103
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 104
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 105
+    }
+  ],
+  "Suriname": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Swaziland": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3
+    }
+  ],
+  "Sweden": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1424
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1757
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 792
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 305
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 450
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 627
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 396
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 425
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 410
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 515
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 687
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1098
+    }
+  ],
+  "Switzerland": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3145
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3261
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3201
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3603
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1759
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2001
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3497
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1832
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 2446
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2789
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3313
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3379
+    }
+  ],
+  "Syrian Arab Republic": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Taiwan Province of China": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 298
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 219
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 123
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 101
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 37
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 28
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 26
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 24
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 58
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 67
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 53
+    }
+  ],
+  "Tajikistan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 22
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 20
+    }
+  ],
+  "Tanzania": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 30
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 54
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 70
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 31
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 40
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 44
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 49
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 58
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 57
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 50
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 48
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 42
+    }
+  ],
+  "Thailand": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 589
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 592
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 554
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 492
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 481
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 493
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 365
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 312
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 305
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 317
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 366
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 344
+    }
+  ],
+  "Timor-Leste": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Togo": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Tonga": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 1
+    }
+  ],
+  "Trinidad And Tobago": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 1
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 7
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 8
+    }
+  ],
+  "Tunisia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 125
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 82
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 94
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 111
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 69
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 77
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 70
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 64
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 75
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 55
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 68
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 119
+    }
+  ],
+  "Turkey": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 521
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 386
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 464
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 519
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 558
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 583
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 617
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 572
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 423
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 523
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 685
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 683
+    }
+  ],
+  "Turkmenistan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 13
+    }
+  ],
+  "Tuvalu": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 0
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 0
+    }
+  ],
+  "Uganda": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 24
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 19
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 17
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 20
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 10
+    }
+  ],
+  "Ukraine": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 1499
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 1309
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 712
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 582
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 594
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 570
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 690
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 770
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 828
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 1341
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3069
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 3134
+    }
+  ],
+  "United Arab Emirates": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 326
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 209
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 272
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 247
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 272
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 292
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 289
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 271
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 251
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 236
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 243
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 273
+    }
+  ],
+  "United Kingdom": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 14326
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 18665
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 18585
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 16995
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 14670
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 14700
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 14633
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 12610
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 13113
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 14811
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 15382
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 15129
+    }
+  ],
+  "United States": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 4786
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 4524
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 4347
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 2969
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 4020
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 4282
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3528
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4007
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 4125
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 3747
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4603
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 6305
+    }
+  ],
+  "Uruguay": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 5
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 271
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 119
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 190
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 210
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 98
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 83
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 229
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 199
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 175
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 197
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 182
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 174
+    }
+  ],
+  "Vanuatu": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 4
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 2
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 3
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 5
+    }
+  ],
+  "Venezuela": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 16
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 13
+    }
+  ],
+  "Vietnam": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 158
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 306
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 318
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 161
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 154
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 240
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 185
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 150
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 239
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 183
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 150
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 239
+    }
+  ],
+  "Yemen": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 33
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 33
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 31
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 35
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 31
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 32
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 33
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 34
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 30
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 38
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 28
+    }
+  ],
+  "Zambia": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 6
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 7
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 8
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 10
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 13
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "date": "2025-01-01",
+      "arrivals": 14
+    },
+    {
+      "date": "2025-02-01",
+      "arrivals": 18
+    },
+    {
+      "date": "2025-03-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-04-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-05-01",
+      "arrivals": 15
+    },
+    {
+      "date": "2025-06-01",
+      "arrivals": 13
+    },
+    {
+      "date": "2025-07-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-08-01",
+      "arrivals": 9
+    },
+    {
+      "date": "2025-09-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-10-01",
+      "arrivals": 11
+    },
+    {
+      "date": "2025-11-01",
+      "arrivals": 12
+    },
+    {
+      "date": "2025-12-01",
+      "arrivals": 15
+    }
+  ]
+}
