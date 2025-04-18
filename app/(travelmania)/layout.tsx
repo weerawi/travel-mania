@@ -37,7 +37,7 @@ export default function DashboardLayout({
           <header className="border-b bg-slate-50 px-6 py-3 w-full">
             <h1 className="text-lg font-medium ">Dashboard</h1>
           </header>
-          <main className="p-6">{children}</main>
+          <main className="px-6">{children}</main>
         </div>
       </div>
     </SidebarProvider>
