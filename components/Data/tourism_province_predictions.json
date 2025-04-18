@@ -1,0 +1,5878 @@
+{
+  "metadata": {
+    "prediction_date": "2025-04-17",
+    "prediction_period": "2025-04 to 2026-04"
+  },
+  "predictions": {
+    "India": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 8779
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 8267
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 8974
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 10634
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 11305
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 12433
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 13897
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 16680
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 14143
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 12443
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 11844
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 9671
+          }
+        },
+        "total": 139070
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 3762
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 3543
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 3846
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 4557
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 4845
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 5328
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 5956
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 7148
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 6061
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 5332
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 5075
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 4144
+          }
+        },
+        "total": 59597
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 5017
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 4724
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 5128
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 6077
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 6460
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 7105
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 7941
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 9531
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 8082
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 7110
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 6768
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 5526
+          }
+        },
+        "total": 79469
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1254
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1181
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1282
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1514
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1615
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1776
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1982
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2381
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2017
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1777
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1698
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1381
+          }
+        },
+        "total": 19858
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1254
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1181
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1282
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1514
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1615
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1776
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1982
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2381
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2017
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1777
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1698
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1381
+          }
+        },
+        "total": 19858
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1756
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1653
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1795
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 2127
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2261
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2487
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2779
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3336
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2829
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2489
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2369
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1934
+          }
+        },
+        "total": 27815
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1254
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1181
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1282
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1514
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1615
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1776
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1982
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2381
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2017
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1777
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1698
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1381
+          }
+        },
+        "total": 19858
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1254
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1181
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1282
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1514
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1615
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1776
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1982
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2381
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2017
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1777
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1698
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1381
+          }
+        },
+        "total": 19858
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 753
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 709
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 769
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 911
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 969
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1066
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1191
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1430
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1212
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1067
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1015
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 829
+          }
+        },
+        "total": 11921
+      }
+    },
+    "Russian Federation": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 2468
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 2262
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 2549
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 2971
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 3184
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 3574
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 4011
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 4899
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 4134
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 3724
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 3456
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 2899
+          }
+        },
+        "total": 40131
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 4926
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 4518
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 5098
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 5943
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 6367
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 7147
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 8023
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 9799
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 8270
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 7447
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 6912
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 5798
+          }
+        },
+        "total": 80248
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1232
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1129
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1274
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1485
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1592
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1786
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2006
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2450
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2067
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1858
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1725
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1449
+          }
+        },
+        "total": 20053
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 246
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 226
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 255
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 297
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 318
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 357
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 400
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 490
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 414
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 371
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 345
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 290
+          }
+        },
+        "total": 4009
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1232
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1129
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1274
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1485
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1592
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1786
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2006
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2450
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2067
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1858
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1725
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1449
+          }
+        },
+        "total": 20053
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 616
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 565
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 637
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 743
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 796
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 894
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1003
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1225
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1034
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 931
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 864
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 725
+          }
+        },
+        "total": 10033
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 370
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 339
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 382
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 445
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 478
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 535
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 602
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 735
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 620
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 558
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 519
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 435
+          }
+        },
+        "total": 6018
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 616
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 565
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 637
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 743
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 796
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 894
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1003
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1225
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1034
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 931
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 864
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 725
+          }
+        },
+        "total": 10033
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 616
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 565
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 637
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 743
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 796
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 894
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1003
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1225
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1034
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 931
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 864
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 725
+          }
+        },
+        "total": 10033
+      }
+    },
+    "United Kingdom": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 3302
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 3082
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 3390
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 3902
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 4168
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 4670
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 5412
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 6235
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 5225
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 4719
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 4447
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 3716
+          }
+        },
+        "total": 52268
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 2201
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 2055
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 2259
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 2601
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2778
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 3113
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 3608
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 4157
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 3483
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 3146
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2965
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 2477
+          }
+        },
+        "total": 34843
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 2751
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 2568
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 2824
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 3252
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 3473
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 3892
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 4510
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 5196
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 4354
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 3933
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 3706
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 3097
+          }
+        },
+        "total": 43556
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 550
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 513
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 565
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 650
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 695
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 779
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 902
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1039
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 871
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 787
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 741
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 619
+          }
+        },
+        "total": 8711
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 550
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 513
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 565
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 650
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 695
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 779
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 902
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1039
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 871
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 787
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 741
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 619
+          }
+        },
+        "total": 8711
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 550
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 513
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 565
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 650
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 695
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 779
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 902
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1039
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 871
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 787
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 741
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 619
+          }
+        },
+        "total": 8711
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 550
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 513
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 565
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 650
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 695
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 779
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 902
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1039
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 871
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 787
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 741
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 619
+          }
+        },
+        "total": 8711
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 330
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 308
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 339
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 390
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 417
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 467
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 541
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 624
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 523
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 472
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 445
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 372
+          }
+        },
+        "total": 5228
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 220
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 205
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 226
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 260
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 278
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 311
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 361
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 416
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 349
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 315
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 295
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 247
+          }
+        },
+        "total": 3483
+      }
+    },
+    "Germany": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 2438
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 2305
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 2543
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 2943
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 3169
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 3509
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 3933
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 4760
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 3975
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 3463
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 3325
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 2734
+          }
+        },
+        "total": 39097
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1630
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1543
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1695
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1962
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2112
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2340
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2622
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3173
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2650
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2309
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2216
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1823
+          }
+        },
+        "total": 26075
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1630
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1543
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1695
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1962
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2112
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2340
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2622
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3173
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2650
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2309
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2216
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1823
+          }
+        },
+        "total": 26075
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 408
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 387
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 424
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 490
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 529
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 585
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 655
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 794
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 662
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 577
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 554
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 455
+          }
+        },
+        "total": 6520
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 408
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 387
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 424
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 490
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 529
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 585
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 655
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 794
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 662
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 577
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 554
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 455
+          }
+        },
+        "total": 6520
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 571
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 540
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 593
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 686
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 739
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 819
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 918
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1111
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 927
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 808
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 776
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 638
+          }
+        },
+        "total": 9126
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 408
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 387
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 424
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 490
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 529
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 585
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 655
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 794
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 662
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 577
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 554
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 455
+          }
+        },
+        "total": 6520
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 408
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 387
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 424
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 490
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 529
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 585
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 655
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 794
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 662
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 577
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 554
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 455
+          }
+        },
+        "total": 6520
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 245
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 233
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 254
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 294
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 318
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 351
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 393
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 476
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 398
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 347
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 332
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 274
+          }
+        },
+        "total": 3915
+      }
+    },
+    "China": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 2489
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 2289
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 2476
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 2883
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 3075
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 3474
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 3923
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 4529
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 3804
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 3579
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 3301
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 2882
+          }
+        },
+        "total": 38704
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1659
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1526
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1650
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1921
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2050
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2316
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2616
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3019
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2536
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2386
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2201
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1922
+          }
+        },
+        "total": 25802
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1659
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1526
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1650
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1921
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2050
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2316
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2616
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3019
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2536
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2386
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2201
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1922
+          }
+        },
+        "total": 25802
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 415
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 381
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 413
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 481
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 513
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 579
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 654
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 755
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 634
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 597
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 550
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 480
+          }
+        },
+        "total": 6452
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 415
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 381
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 413
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 481
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 513
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 579
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 654
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 755
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 634
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 597
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 550
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 480
+          }
+        },
+        "total": 6452
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 581
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 534
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 578
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 672
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 717
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 811
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 916
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1057
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 888
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 835
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 771
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 672
+          }
+        },
+        "total": 9032
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 415
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 381
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 413
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 481
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 513
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 579
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 654
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 755
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 634
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 597
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 550
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 480
+          }
+        },
+        "total": 6452
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 415
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 381
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 413
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 481
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 513
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 579
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 654
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 755
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 634
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 597
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 550
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 480
+          }
+        },
+        "total": 6452
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 249
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 229
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 248
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 288
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 307
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 348
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 392
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 453
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 381
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 358
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 330
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 289
+          }
+        },
+        "total": 3872
+      }
+    },
+    "Australia": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1632
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1526
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1681
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1952
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2086
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2312
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2634
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3138
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2624
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2321
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2186
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1809
+          }
+        },
+        "total": 25901
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1088
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1017
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1120
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1302
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1391
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1541
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1756
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2092
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1749
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1547
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1458
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1206
+          }
+        },
+        "total": 17267
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1088
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1017
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1120
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1302
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1391
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1541
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1756
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2092
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1749
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1547
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1458
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1206
+          }
+        },
+        "total": 17267
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 272
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 254
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 280
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 325
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 348
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 385
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 439
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 523
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 437
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 387
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 365
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 302
+          }
+        },
+        "total": 4317
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 272
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 254
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 280
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 325
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 348
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 385
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 439
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 523
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 437
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 387
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 365
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 302
+          }
+        },
+        "total": 4317
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 381
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 356
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 392
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 455
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 487
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 539
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 613
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 732
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 612
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 541
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 510
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 422
+          }
+        },
+        "total": 6040
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 272
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 254
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 280
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 325
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 348
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 385
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 439
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 523
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 437
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 387
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 365
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 302
+          }
+        },
+        "total": 4317
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 272
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 254
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 280
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 325
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 348
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 385
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 439
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 523
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 437
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 387
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 365
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 302
+          }
+        },
+        "total": 4317
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 163
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 153
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 168
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 196
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 209
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 231
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 264
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 314
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 262
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 233
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 218
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 181
+          }
+        },
+        "total": 2592
+      }
+    },
+    "France": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1658
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1535
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1669
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1922
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 2067
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 2318
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 2649
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 3045
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 2562
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 2363
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 2182
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1870
+          }
+        },
+        "total": 25840
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1105
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1023
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1112
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1281
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1378
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1546
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1765
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2030
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1708
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1575
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1454
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1247
+          }
+        },
+        "total": 17224
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1105
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1023
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1112
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1281
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1378
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1546
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1765
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2030
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1708
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1575
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1454
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1247
+          }
+        },
+        "total": 17224
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 276
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 256
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 278
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 320
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 345
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 386
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 441
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 508
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 427
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 395
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 363
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 312
+          }
+        },
+        "total": 4307
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 276
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 256
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 278
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 320
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 345
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 386
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 441
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 508
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 427
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 395
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 363
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 312
+          }
+        },
+        "total": 4307
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 386
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 358
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 389
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 448
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 483
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 541
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 618
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 711
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 598
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 553
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 509
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 436
+          }
+        },
+        "total": 6030
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 276
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 256
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 278
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 320
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 345
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 386
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 441
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 508
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 427
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 395
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 363
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 312
+          }
+        },
+        "total": 4307
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 276
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 256
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 278
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 320
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 345
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 386
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 441
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 508
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 427
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 395
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 363
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 312
+          }
+        },
+        "total": 4307
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 165
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 153
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 167
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 192
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 207
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 232
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 265
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 305
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 256
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 237
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 218
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 187
+          }
+        },
+        "total": 2584
+      }
+    },
+    "United States": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 1086
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 1017
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 1121
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1310
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1388
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1556
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1806
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 2111
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1772
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1556
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1473
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1214
+          }
+        },
+        "total": 17410
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 723
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 678
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 747
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 873
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 926
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1038
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1204
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1407
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1181
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1038
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 979
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 806
+          }
+        },
+        "total": 11600
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 723
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 678
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 747
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 873
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 926
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1038
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1204
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1407
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1181
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1038
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 979
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 806
+          }
+        },
+        "total": 11600
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 181
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 170
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 187
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 218
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 232
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 259
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 300
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 352
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 296
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 260
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 245
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 201
+          }
+        },
+        "total": 2901
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 181
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 170
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 187
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 218
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 232
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 259
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 300
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 352
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 296
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 260
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 245
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 201
+          }
+        },
+        "total": 2901
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 253
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 237
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 262
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 306
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 324
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 363
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 422
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 493
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 414
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 363
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 344
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 283
+          }
+        },
+        "total": 4064
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 181
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 170
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 187
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 218
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 232
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 259
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 300
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 352
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 296
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 260
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 245
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 201
+          }
+        },
+        "total": 2901
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 181
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 170
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 187
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 218
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 232
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 259
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 300
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 352
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 296
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 260
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 245
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 201
+          }
+        },
+        "total": 2901
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 109
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 102
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 112
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 131
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 139
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 156
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 181
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 211
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 178
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 156
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 148
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 122
+          }
+        },
+        "total": 1745
+      }
+    },
+    "Netherlands": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 928
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 866
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 938
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1103
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1167
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1299
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1467
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1698
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1419
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1304
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1242
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 1027
+          }
+        },
+        "total": 14458
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 619
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 577
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 626
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 735
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 778
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 866
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 978
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1132
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 946
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 869
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 828
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 685
+          }
+        },
+        "total": 9639
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 619
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 577
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 626
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 735
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 778
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 866
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 978
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1132
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 946
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 869
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 828
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 685
+          }
+        },
+        "total": 9639
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 154
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 144
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 156
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 184
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 194
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 217
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 246
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 283
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 237
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 218
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 207
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 171
+          }
+        },
+        "total": 2411
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 154
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 144
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 156
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 184
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 194
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 217
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 246
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 283
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 237
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 218
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 207
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 171
+          }
+        },
+        "total": 2411
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 216
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 202
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 219
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 257
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 272
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 303
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 343
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 397
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 331
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 304
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 290
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 240
+          }
+        },
+        "total": 3374
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 154
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 144
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 156
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 184
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 194
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 217
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 246
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 283
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 237
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 218
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 207
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 171
+          }
+        },
+        "total": 2411
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 154
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 144
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 156
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 184
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 194
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 217
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 246
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 283
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 237
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 218
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 207
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 171
+          }
+        },
+        "total": 2411
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 93
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 87
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 94
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 110
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 117
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 130
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 147
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 169
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 142
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 130
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 124
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 103
+          }
+        },
+        "total": 1446
+      }
+    },
+    "Maldives": {
+      "Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 873
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 812
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 888
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 1019
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 1100
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 1254
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 1402
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1654
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 1385
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 1254
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 1146
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 987
+          }
+        },
+        "total": 13774
+      },
+      "Southern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 584
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 544
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 592
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 680
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 731
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 836
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 935
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1103
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 924
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 836
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 766
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 658
+          }
+        },
+        "total": 9189
+      },
+      "Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 584
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 544
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 592
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 680
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 731
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 836
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 935
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 1103
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 924
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 836
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 766
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 658
+          }
+        },
+        "total": 9189
+      },
+      "Northern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 146
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 136
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 148
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 170
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 183
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 209
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 234
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 276
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 231
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 209
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 192
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 164
+          }
+        },
+        "total": 2298
+      },
+      "Eastern": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 146
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 136
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 148
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 170
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 183
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 209
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 234
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 276
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 231
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 209
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 192
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 164
+          }
+        },
+        "total": 2298
+      },
+      "North Western": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 203
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 190
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 207
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 238
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 257
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 292
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 327
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 386
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 323
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 292
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 267
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 230
+          }
+        },
+        "total": 3212
+      },
+      "North Central": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 146
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 136
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 148
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 170
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 183
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 209
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 234
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 276
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 231
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 209
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 192
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 164
+          }
+        },
+        "total": 2298
+      },
+      "Uva": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 146
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 136
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 148
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 170
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 183
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 209
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 234
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 276
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 231
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 209
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 192
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 164
+          }
+        },
+        "total": 2298
+      },
+      "Sabaragamuwa": {
+        "monthly": {
+          "2025-05": {
+            "year": 2025,
+            "month": "May",
+            "tourists": 88
+          },
+          "2025-06": {
+            "year": 2025,
+            "month": "Jun",
+            "tourists": 82
+          },
+          "2025-07": {
+            "year": 2025,
+            "month": "Jul",
+            "tourists": 89
+          },
+          "2025-08": {
+            "year": 2025,
+            "month": "Aug",
+            "tourists": 102
+          },
+          "2025-09": {
+            "year": 2025,
+            "month": "Sep",
+            "tourists": 109
+          },
+          "2025-10": {
+            "year": 2025,
+            "month": "Oct",
+            "tourists": 125
+          },
+          "2025-11": {
+            "year": 2025,
+            "month": "Nov",
+            "tourists": 140
+          },
+          "2025-12": {
+            "year": 2025,
+            "month": "Dec",
+            "tourists": 165
+          },
+          "2026-01": {
+            "year": 2026,
+            "month": "Jan",
+            "tourists": 139
+          },
+          "2026-02": {
+            "year": 2026,
+            "month": "Feb",
+            "tourists": 125
+          },
+          "2026-03": {
+            "year": 2026,
+            "month": "Mar",
+            "tourists": 115
+          },
+          "2026-04": {
+            "year": 2026,
+            "month": "Apr",
+            "tourists": 99
+          }
+        },
+        "total": 1378
+      }
+    }
+  }
+}
