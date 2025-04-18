@@ -30,7 +30,7 @@ export default function SignIn() {
         localStorage.setItem('user', JSON.stringify(response.data.user))
         
         // Redirect to dashboard
-        router.push('home/dashboard')
+        router.push('/home/dashboard')
       }
     } catch (error) {
       console.error("Error during sign in:", error)
