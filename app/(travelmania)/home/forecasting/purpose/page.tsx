@@ -10,8 +10,8 @@ export default function PurposeForecasting() {
       <CardHeader>
         <CardTitle>Purpose-Based Tourism Forecasting</CardTitle>
       </CardHeader>
-      <CardContent>
-      <TourismCombinedChart data={tourismPurposeArrivalData} height={500} />
+      <CardContent className="overflow-x-hidden">
+      <TourismCombinedChart data={tourismPurposeArrivalData} height={200} />
       </CardContent>
        
     </Card>

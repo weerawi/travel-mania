@@ -5,7 +5,7 @@ export default function Home() {
   return (
 
     <>
-    <h1 className="text-3xl bg-red-600">Welcome
+    <h1 className="text-3xl bg-gray-200"> 
 
       <li>
         <Link href="/auth/signup">sing up</Link>

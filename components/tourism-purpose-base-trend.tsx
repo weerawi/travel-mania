@@ -106,7 +106,7 @@ interface TourismCombinedChartProps {
   height?: number
 }
 
-export function TourismCombinedChart({ data = [], className = "", height = 400 }: TourismCombinedChartProps) {
+export function TourismCombinedChart({ data = [], className = "", height = 200 }: TourismCombinedChartProps) {
   const [selectedMonth, setSelectedMonth] = useState(getCurrentMonth())
   const [selectedCountry, setSelectedCountry] = useState("")
   const [selectedView, setSelectedView] = useState("categories")
@@ -312,7 +312,7 @@ export function TourismCombinedChart({ data = [], className = "", height = 400 }
           <CardTitle>Tourism Statistics</CardTitle>
           <CardDescription>No data available for the selected filters</CardDescription>
         </CardHeader>
-        <CardContent className="flex items-center justify-center h-[400px]">
+        <CardContent className="flex items-center justify-center h-[300px]">
           <p className="text-muted-foreground">Try selecting different filters</p>
         </CardContent>
       </Card>
@@ -420,7 +420,7 @@ export function TourismCombinedChart({ data = [], className = "", height = 400 }
       <CardContent>
         <ChartContainer config={chartConfig}>
           {selectedView === "categories" && (
-            <ResponsiveContainer width="100%" height={height} style={{ minHeight: `${height}px` }}>
+            <ResponsiveContainer width="90%" height={height} style={{ maxHeight: `${height}px` }}>
               <BarChart data={categoryData} margin={{ top: 10, right: 10, left: 0, bottom: 20 }}>
                 <CartesianGrid vertical={false} opacity={0.2} />
                 <XAxis
@@ -455,7 +455,7 @@ export function TourismCombinedChart({ data = [], className = "", height = 400 }
           )}
 
           {selectedView === "trends" && (
-            <ResponsiveContainer width="100%" height={height} style={{ minHeight: `${height}px` }}>
+            <ResponsiveContainer width="90%" height={height} style={{ maxHeight: `${height}px` }}>
               <LineChart data={trendData} margin={{ top: 10, right: 30, left: 0, bottom: 10 }}>
                 <CartesianGrid strokeDasharray="3 3" opacity={0.2} />
                 <XAxis dataKey="month" tickLine={false} axisLine={false} />
@@ -519,7 +519,7 @@ export function TourismCombinedChart({ data = [], className = "", height = 400 }
             </ResponsiveContainer>
           )}
           {selectedView === "countries" && (
-            <ResponsiveContainer width="100%" height={height} style={{ minHeight: `${height}px` }}>
+            <ResponsiveContainer width="90%" height={height} style={{ maxHeight: `${height}px` }}>
               <LineChart data={trendData} margin={{ top: 10, right: 30, left: 0, bottom: 10 }}>
                 <CartesianGrid strokeDasharray="3 3" opacity={0.2} />
                 <XAxis dataKey="month" tickLine={false} axisLine={false} />

@@ -9,33 +9,43 @@ export default function ForecastingLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className=" ">
-      {/* <h1 className="text-2xl font-bold">Forecasting Dashboard</h1> */}
-
-      <div className="flex flex-wrap gap-4 my-3">
+    <div className="space-y-4">
+      <div className="flex flex-wrap gap-2 my-3 p-1 rounded-lg">
         <Link href="general">
-          <Button className="h-10 w-full sm:w-32 gap-2 bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700">
+          <Button
+            variant="outline"
+            className="h-10 w-full sm:w-32 gap-2 bg-gray-100 hover:bg-gray-200 text-gray-800 border-0"
+          >
             <LineChart className="h-5 w-5" />
             <span>General</span>
           </Button>
         </Link>
 
         <Link href="purpose">
-          <Button className="h-10 w-full sm:w-32 gap-2 bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-600 hover:to-teal-700">
+          <Button
+            variant="outline"
+            className="h-10 w-full sm:w-32 gap-2 bg-gray-100 hover:bg-gray-200 text-gray-800 border-0"
+          >
             <BarChart3 className="h-5 w-5" />
             <span>Purpose</span>
           </Button>
         </Link>
 
         <Link href="province">
-          <Button className="h-10 w-full sm:w-32 gap-2 bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700">
+          <Button
+            variant="outline"
+            className="h-10 w-full sm:w-32 gap-2 bg-gray-100 hover:bg-gray-200 text-gray-800 border-0"
+          >
             <TrendingUp className="h-5 w-5" />
             <span>Province</span>
           </Button>
         </Link>
 
         <Link href="airline">
-          <Button className="h-10 w-full sm:w-32 gap-2 bg-gradient-to-r from-sky-500 to-blue-600 hover:from-sky-600 hover:to-blue-700">
+          <Button
+            variant="outline"
+            className="h-10 w-full sm:w-32 gap-2 bg-gray-100 hover:bg-gray-200 text-gray-800 border-0"
+          >
             <Plane className="h-5 w-5" />
             <span>Airline</span>
           </Button>

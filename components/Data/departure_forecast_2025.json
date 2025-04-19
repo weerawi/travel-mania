@@ -1,0 +1,149 @@
+[
+    {
+        "airport": "other",
+        "predicted_tourists": 295298,
+        "mape": 4.07,
+        "model": "RandomForest",
+        "share": 15.583443758585332
+    },
+    {
+        "airport": "Dubai",
+        "predicted_tourists": 224979,
+        "mape": 4.22,
+        "model": "RandomForest",
+        "share": 11.872574800245072
+    },
+    {
+        "airport": "Doha Qatar",
+        "predicted_tourists": 215729,
+        "mape": 4.18,
+        "model": "RandomForest",
+        "share": 11.384434498695741
+    },
+    {
+        "airport": "Chennai",
+        "predicted_tourists": 170576,
+        "mape": 4.13,
+        "model": "RandomForest",
+        "share": 9.001623792116613
+    },
+    {
+        "airport": "Abu Dhabi",
+        "predicted_tourists": 119023,
+        "mape": 4.2,
+        "model": "RandomForest",
+        "share": 6.28107276878984
+    },
+    {
+        "airport": "Mumbai",
+        "predicted_tourists": 80824,
+        "mape": 4.65,
+        "model": "RandomForest",
+        "share": 4.265238025126824
+    },
+    {
+        "airport": "Delhi",
+        "predicted_tourists": 77441,
+        "mape": 4.87,
+        "model": "RandomForest",
+        "share": 4.086710604570999
+    },
+    {
+        "airport": "Bangalore",
+        "predicted_tourists": 74557,
+        "mape": 4.59,
+        "model": "RandomForest",
+        "share": 3.9345163743365905
+    },
+    {
+        "airport": "Kuala Lumpur",
+        "predicted_tourists": 70306,
+        "mape": 4.55,
+        "model": "RandomForest",
+        "share": 3.710182923321866
+    },
+    {
+        "airport": "Singapore",
+        "predicted_tourists": 67915,
+        "mape": 5.33,
+        "model": "RandomForest",
+        "share": 3.5840052518619254
+    },
+    {
+        "airport": "Moscow",
+        "predicted_tourists": 65958,
+        "mape": 4.74,
+        "model": "RandomForest",
+        "share": 3.4807305956314343
+    },
+    {
+        "airport": "London",
+        "predicted_tourists": 61668,
+        "mape": 3.79,
+        "model": "RandomForest",
+        "share": 3.254339039561529
+    },
+    {
+        "airport": "Sharjah",
+        "predicted_tourists": 54131,
+        "mape": 3.9,
+        "model": "RandomForest",
+        "share": 2.8565970446666844
+    },
+    {
+        "airport": "Shanghai",
+        "predicted_tourists": 51469,
+        "mape": 3.81,
+        "model": "RandomForest",
+        "share": 2.716118181669461
+    },
+    {
+        "airport": "Dubai/Male",
+        "predicted_tourists": 49245,
+        "mape": 4.81,
+        "model": "RandomForest",
+        "share": 2.598753421599654
+    },
+    {
+        "airport": "Hyderabad",
+        "predicted_tourists": 49002,
+        "mape": 4.89,
+        "model": "RandomForest",
+        "share": 2.5859298439481417
+    },
+    {
+        "airport": "Istanbul",
+        "predicted_tourists": 46564,
+        "mape": 4.2,
+        "model": "RandomForest",
+        "share": 2.457271892037086
+    },
+    {
+        "airport": "Male",
+        "predicted_tourists": 44610,
+        "mape": 4.25,
+        "model": "RandomForest",
+        "share": 2.3541555515800705
+    },
+    {
+        "airport": "Bangkok",
+        "predicted_tourists": 34191,
+        "mape": 4.08,
+        "model": "RandomForest",
+        "share": 1.8043248702998025
+    },
+    {
+        "airport": "Chengdu",
+        "predicted_tourists": 21282,
+        "mape": 3.92,
+        "model": "RandomForest",
+        "share": 1.1230920970349039
+    },
+    {
+        "airport": "Melbourne",
+        "predicted_tourists": 20179,
+        "mape": 2.25,
+        "model": "RandomForest",
+        "share": 1.0648846643204268
+    }
+]

@@ -1,3 +1,5 @@
+'use client'
+
 import { MainNav } from "@/components/main-nav";
 import {
   Sidebar,
@@ -6,13 +8,40 @@ import {
   SidebarHeader,
   SidebarProvider,
 } from "@/components/ui/sidebar";
-import { LogOut } from "lucide-react"; 
+import { LogOut } from "lucide-react";  
+import { useRouter } from "next/navigation";
+import { useEffect, useState } from "react";
 
 export default function DashboardLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+
+  const [user, setUser] = useState(null)
+  const router = useRouter()
+
+  useEffect(() => { 
+    const storedUser = localStorage.getItem('user')
+    
+    if (!storedUser) { 
+      router.push('/auth/signin')
+    } else {
+      setUser(JSON.parse(storedUser))
+    }
+  }, [router])
+
+  const handleLogout = () => {
+    // Remove user from local storage
+    localStorage.removeItem('user')
+    // Redirect to login
+    router.push('/auth/signin')
+  }
+  
+  if (!user) {
+    return <div className="flex justify-center items-center h-screen">Loading...</div>
+  }
+
   return (
     <SidebarProvider>
       <div className="flex min-h-screen w-full">
@@ -24,7 +53,7 @@ export default function DashboardLayout({
           </SidebarHeader>
           <SidebarContent className="flex flex-1 flex-col justify-between p-4">
             <MainNav />
-            <SidebarFooter className="mt-auto pt-2"> 
+            <SidebarFooter onClick={handleLogout} className="mt-auto pt-2 cursor-pointer"> 
               <div className="text-destructive flex items-center ">
                 <LogOut className="mr-2 h-4 w-4" />
                 <span>Log out</span>

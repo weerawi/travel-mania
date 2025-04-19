@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "model": "Hybrid_ARIMA_RF",
+    "mape": 0.4650575274731323,
+    "prediction_date": "2025-04-18",
+    "total_tourists": 2126090
+  },
+  "predictions": {
+    "Air India": {
+      "tourists": 79539,
+      "share": 3.74
+    },
+    "Airarabia": {
+      "tourists": 77902,
+      "share": 3.66
+    },
+    "China Eastern": {
+      "tourists": 78475,
+      "share": 3.69
+    },
+    "Emirates": {
+      "tourists": 191651,
+      "share": 9.01
+    },
+    "Etihad Airways": {
+      "tourists": 80512,
+      "share": 3.79
+    },
+    "Flydubai": {
+      "tourists": 78960,
+      "share": 3.71
+    },
+    "Indigo": {
+      "tourists": 183610,
+      "share": 8.64
+    },
+    "Other": {
+      "tourists": 520624,
+      "share": 24.49
+    },
+    "Qatar Airways": {
+      "tourists": 228275,
+      "share": 10.74
+    },
+    "Red Wings": {
+      "tourists": 78424,
+      "share": 3.69
+    },
+    "Srilankan Airlines": {
+      "tourists": 528118,
+      "share": 24.84
+    }
+  }
+}
