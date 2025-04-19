@@ -166,12 +166,12 @@ export default function ProvinceForecasting() {
 
   return (
     <Card>
+      <CardHeader>
+        <CardTitle>Province-Based Tourism Forecasting</CardTitle>
+      </CardHeader>
       <CardContent className="space-y-6">
         <div className="flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold">
-              Province-Based Tourism Forecasting
-            </h1>
             <p className="text-muted-foreground">
               Tourism predictions for {selectedCountry} provinces from{" "}
               {tourismData.metadata.prediction_period}

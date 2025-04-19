@@ -17,11 +17,6 @@ const items: NavItem[] = [
     icon: LayoutDashboard,
   },
   {
-    title: "Categorize",
-    href: "/home/categorize",
-    icon: FolderKanban,
-  },
-  {
     title: "Forecasting",
     href: "/home/forecasting",
     icon: BarChart3,

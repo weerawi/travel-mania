@@ -263,25 +263,25 @@ export default function AirlineForecasting() {
 
   return (
     <Card>
+      <CardHeader>
+        <CardTitle>Airline-Based Tourism Forecasting</CardTitle>
+      </CardHeader>
       <CardContent className="space-y-6">
         <div className="flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold">
-              Airline-Based Tourism Forecasting
-            </h1>
             <p className="text-muted-foreground">
               Predicted tourist arrivals by airlines and departure airports for
               2025
             </p>
           </div>
           <div className="flex items-center gap-2">
-            <Badge variant="outline" className="text-sm">
+            {/* <Badge variant="outline" className="text-sm">
               Prediction Date: {airlineData.metadata.prediction_date}
-            </Badge>
-            <Badge variant="outline" className="text-sm">
+            </Badge> */}
+            {/* <Badge variant="outline" className="text-sm">
               Total Tourists:{" "}
               {airlineData.metadata.total_tourists.toLocaleString()}
-            </Badge>
+            </Badge> */}
           </div>
         </div>
 
