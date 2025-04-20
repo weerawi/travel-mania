@@ -441,7 +441,7 @@ const Setting = () => {
         setUser(userData)
       } catch (error) {
         console.log('Error fetching user data:', error)
-        setError('Failed to load user data')
+        // setError('Failed to load user data')
       } finally {
         setLoading(false)
       }

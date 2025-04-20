@@ -1,240 +1,242 @@
-"use client";
+"use client"
 
-import TourismLineChart from "@/components/charts/TourismLineChart";
-import React from "react";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { useState } from "react"
-import { Users } from "lucide-react";
-import { MetricsCard } from "@/components/MetricsCard";
-import TouristCountryChart from "@/components/tourist-country-charts";
-import AgeStaticsCard from "@/components/age-statics-card";
-import { TopTourismCard } from "@/components/top-tourism";
-import { TourismCategoryChart } from "@/components/previous-years-chart";
-import { Button } from "@/components/ui/button";
-import { FilterComponent } from "@/components/filter-dropdown";
+import { useState, useMemo } from "react"
+import { Calendar, DollarSign, Users, Clock } from "lucide-react"
 
-const Dashboard = () => {
 
-  const [tourismCategory, setTourismCategory] = useState("Business")
-  const [ageGroup, setAgeGroup] = useState("20 - 30")
-  const [country, setCountry] = useState("Brazil")
-  const [year, setYear] = useState("2025")
-  const [month, setMonth] = useState("February")
+// Types for revenue data
+export interface MonthlyRevenueData {
+  month: string
+  touristCount: number
+  averageUSD: number
+  averageDuration: number
+  totalRevenue: number
+}
 
-  // Filter options data
-  const tourismCategories: FilterOption[] = [
-    { label: "Business", value: "Business" },
-    { label: "Leisure", value: "Leisure" },
-    { label: "Family", value: "Family" },
-    { label: "Adventure", value: "Adventure" },
-  ]
+export interface YearlyTotalData {
+  touristCount: number
+  totalRevenue: number
+}
 
-  const ageGroups: FilterOption[] = [
-    { label: "Under 20", value: "Under 20" },
-    { label: "20 - 30", value: "20 - 30" },
-    { label: "31 - 40", value: "31 - 40" },
-    { label: "41 - 50", value: "41 - 50" },
-    { label: "51+", value: "51+" },
-  ]
+export interface YearData {
+  monthlyData: MonthlyRevenueData[]
+  totalData: YearlyTotalData
+}
 
-  const countries: FilterOption[] = [
-    { label: "Brazil", value: "Brazil" },
-    { label: "USA", value: "USA" },
-    { label: "Canada", value: "Canada" },
-    { label: "UK", value: "UK" },
-    { label: "Australia", value: "Australia" },
-  ]
+export interface RevenueData {
+  years: {
+    [year: string]: YearData
+  }
+}
 
-  const years: FilterOption[] = [
-    { label: "2023", value: "2023" },
-    { label: "2024", value: "2024" },
-    { label: "2025", value: "2025" },
-    { label: "2026", value: "2026" },
-  ]
+// Types for age distribution data
+export interface AgeGroups {
+  "18-24": number
+  "25-34": number
+  "35-44": number
+  "45-54": number
+  "55-64": number
+  "65+": number
+}
 
-  const months: FilterOption[] = [
-    { label: "January", value: "January" },
-    { label: "February", value: "February" },
-    { label: "March", value: "March" },
-    { label: "April", value: "April" },
-    { label: "May", value: "May" },
-    { label: "June", value: "June" },
-    { label: "July", value: "July" },
-    { label: "August", value: "August" },
-    { label: "September", value: "September" },
-    { label: "October", value: "October" },
-    { label: "November", value: "November" },
-    { label: "December", value: "December" },
-  ]
+export interface CountryAgeData {
+  country: string
+  ageGroups: AgeGroups
+  total: number
+}
 
-  // Sample tourism data that matches the image
-  const previousTourismData = [
-    {
-      year: "2019",
-      allCategories: 120000,
-      business: 800000,
-      pleasure: 150000,
-      mice: 700000,
-      visiting: 0,
-    },
-    {
-      year: "2020",
-      allCategories: 70000,
-      business: 300000,
-      pleasure: 150000,
-      mice: 27890,
-      visiting: 20000,
-    },
-    {
-      year: "2021",
-      allCategories: 600000,
-      business: 700000,
-      pleasure: 120000,
-      mice: 1100000,
-      visiting: 0,
-    },
-    {
-      year: "2022",
-      allCategories: 80000,
-      business: 700000,
-      pleasure: 300000,
-      mice: 0,
-      visiting: 120000,
-    },
-    {
-      year: "2023",
-      allCategories: 200000,
-      business: 300000,
-      pleasure: 309040,
-      mice: 1237980,
-      visiting: 300000,
-    },
-    {
-      year: "2024",
-      allCategories: 400000,
-      business: 150000,
-      pleasure: 220000,
-      mice: 120000,
-      visiting: 0,
-    },
-    {
-      year: "2025",
-      allCategories: 550000,
-      business: 220000,
-      pleasure: 124440,
-      mice: 150000,
-      visiting: 50000,
-    },
-  ];
+export interface AgeDistributionData {
+  years: {
+    [year: string]: {
+      countries: CountryAgeData[]
+    }
+  }
+}
 
-  const tourismData = {
-    monthName: "February",
-    monthValue: 126570,
-    year: 2025,
-    yearValue: 1218273,
-    countries: [
-      { country: "Brasil", visitors: 50000 },
-      { country: "England", visitors: 30000 },
-      { country: "Switzerland", visitors: 10000 },
-    ],
-  };
-  
+
+// Import components
+// import { RevenueOverviewChart } from "@/components/revenue-overview-chart"
+// import { MonthlyComparisonChart } from "@/components/monthly-comparison-chart"
+// import { AgeDistributionChart } from "@/components/age-distribution-chart"
+// import { TopCountriesChart } from "@/components/top-countries-chart"
+// import { MetricsCard } from "@/components/metrics-card"
+// import { YearSelector } from "@/components/year-selector"
+
+
+// Import data
+import revenueData from "../../../../components/Data/revenue_data.json"
+import ageDistributionData from "../../../../components/Data/tourism_age_distribution.json"
+
+
+import { YearSelector } from "@/components/year-selector"
+import { MetricsCard } from "@/components/MetricsCard"
+import { RevenueOverviewChart } from "@/components/revenue-overview-chart"
+import { MonthlyComparisonChart } from "@/components/monthly-comparison-chart"
+import { AgeDistributionChart } from "@/components/age-distribution-chart"
+import { TopCountriesChart } from "@/components/top-countries-chart"
+
+export default function Dashboard() {
+  // Cast imported data to the correct types
+  const typedRevenueData = revenueData as RevenueData
+  const typedAgeDistributionData = ageDistributionData as AgeDistributionData
+
+  // Get available years from the data
+  const availableYears = useMemo(() => {
+    return Object.keys(typedRevenueData.years).sort((a, b) => Number.parseInt(b) - Number.parseInt(a))
+  }, [typedRevenueData])
+
+  // State for selected year
+  const [selectedYear, setSelectedYear] = useState<string>(availableYears[0] || "2024")
+
+  // Get previous year
+  const previousYear = useMemo(() => {
+    const currentYearIndex = availableYears.indexOf(selectedYear)
+    if (currentYearIndex < availableYears.length - 1) {
+      return availableYears[currentYearIndex + 1]
+    }
+    return null
+  }, [selectedYear, availableYears])
+
+  // Get current year data
+  const currentYearData = useMemo(() => {
+    return typedRevenueData.years[selectedYear] || { monthlyData: [], totalData: { touristCount: 0, totalRevenue: 0 } }
+  }, [typedRevenueData, selectedYear])
+
+  // Get previous year data
+  const previousYearData = useMemo(() => {
+    if (!previousYear) return { monthlyData: [], totalData: { touristCount: 0, totalRevenue: 0 } }
+    return typedRevenueData.years[previousYear] || { monthlyData: [], totalData: { touristCount: 0, totalRevenue: 0 } }
+  }, [typedRevenueData, previousYear])
+
+  // Get age distribution data for selected year
+  const ageData = useMemo(() => {
+    return typedAgeDistributionData.years[selectedYear]?.countries || []
+  }, [typedAgeDistributionData, selectedYear])
+
+  // Calculate metrics and trends
+  const metrics = useMemo(() => {
+    const currentTotal = currentYearData.totalData.touristCount
+    const currentRevenue = currentYearData.totalData.totalRevenue
+
+    let touristTrend = 0
+    let revenueTrend = 0
+    let isTouristTrendPositive = true
+    let isRevenueTrendPositive = true
+
+    if (previousYear) {
+      const previousTotal = previousYearData.totalData.touristCount
+      const previousRevenue = previousYearData.totalData.totalRevenue
+
+      if (previousTotal > 0) {
+        touristTrend = Math.round(((currentTotal - previousTotal) / previousTotal) * 100)
+        isTouristTrendPositive = touristTrend >= 0
+      }
+
+      if (previousRevenue > 0) {
+        revenueTrend = Math.round(((currentRevenue - previousRevenue) / previousRevenue) * 100)
+        isRevenueTrendPositive = revenueTrend >= 0
+      }
+    }
+
+    // Calculate average duration and spending
+    let totalDuration = 0
+    let totalSpending = 0
+
+    currentYearData.monthlyData.forEach((month) => {
+      totalDuration += month.averageDuration
+      totalSpending += month.averageUSD
+    })
+
+    const avgDuration =
+      currentYearData.monthlyData.length > 0 ? (totalDuration / currentYearData.monthlyData.length).toFixed(1) : 0
+
+    const avgSpending =
+      currentYearData.monthlyData.length > 0 ? Math.round(totalSpending / currentYearData.monthlyData.length) : 0
+
+    return {
+      touristCount: currentTotal,
+      totalRevenue: currentRevenue,
+      touristTrend: Math.abs(touristTrend),
+      isTouristTrendPositive,
+      revenueTrend: Math.abs(revenueTrend),
+      isRevenueTrendPositive,
+      avgDuration,
+      avgSpending,
+    }
+  }, [currentYearData, previousYearData, previousYear])
 
   return (
-    // <div>dashboard
-
-    //   <div></div>
-    //   <div><TourismLineChart/></div>
-    //   <div></div>
-    // </div>
-
     <div className="p-6 space-y-6">
-      <Card>
-        <CardHeader>
-          <Button className="w-20" variant="default">
-            Filter
-          </Button>
-        </CardHeader>
-        <CardContent>
-        <CardContent>
-          <FilterComponent
-            tourismCategory={tourismCategory}
-            setTourismCategory={setTourismCategory}
-            ageGroup={ageGroup}
-            setAgeGroup={setAgeGroup}
-            country={country}
-            setCountry={setCountry}
-            year={year}
-            setYear={setYear}
-            month={month}
-            setMonth={setMonth}
-            tourismCategories={tourismCategories}
-            ageGroups={ageGroups}
-            countries={countries}
-            years={years}
-            months={months}
-          />
-        </CardContent>
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+        <h1 className="text-2xl font-bold">Tourism Dashboard</h1>
+        <YearSelector years={availableYears} selectedYear={selectedYear} onYearChange={setSelectedYear} />
+      </div>
 
-        </CardContent>
-        <div className="container mx-auto p-4">
-          <div className="grid gap-4">
-            <TourismCategoryChart data={previousTourismData} />
-          </div>
-        </div>
-      </Card>
+      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+        <MetricsCard
+          title="Total Tourists"
+          value={metrics.touristCount}
+          icon={<Users className="h-4 w-4 text-muted-foreground" />}
+          subtitle={`Total for ${selectedYear}`}
+          trend={
+            previousYear
+              ? {
+                  value: metrics.touristTrend,
+                  isPositive: metrics.isTouristTrendPositive,
+                }
+              : undefined
+          }
+        />
 
-      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        <Card>
-          <CardHeader>
-            <CardTitle>Age Statistics</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <AgeStaticsCard />
-          </CardContent>
-        </Card>
-        <Card>
-          <CardHeader>
-            <CardTitle>Country Statistics</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <TouristCountryChart />
-          </CardContent>
-        </Card>
+        <MetricsCard
+          title="Total Revenue"
+          value={Math.round(metrics.totalRevenue)}
+          valuePrefix="$"
+          icon={<DollarSign className="h-4 w-4 text-muted-foreground" />}
+          subtitle={`Total for ${selectedYear}`}
+          trend={
+            previousYear
+              ? {
+                  value: metrics.revenueTrend,
+                  isPositive: metrics.isRevenueTrendPositive,
+                }
+              : undefined
+          }
+        />
 
-        <div className="grid gap-4 md:grid-rows-2 ">
-          <div className="grid gap-4 md:grid-rows-2 ">
-            <MetricsCard
-              title="Month"
-              value="45,600"
-              icon={<Users className="h-4 w-4 text-muted-foreground" />}
-            />
-            <MetricsCard
-              title="Yearly"
-              value="245,600"
-              icon={<Users className="h-4 w-4 text-muted-foreground" />}
-            />
-          </div>
-          {/* <MetricsCard
-            title="All Tourist"
-            value="245,600"
-            icon={<Users className="h-4 w-4 text-muted-foreground" />}
-          /> */}
+        <MetricsCard
+          title="Average Stay Duration"
+          value={metrics.avgDuration}
+          valueSuffix=" days"
+          icon={<Calendar className="h-4 w-4 text-muted-foreground" />}
+          subtitle={`Average for ${selectedYear}`}
+        />
 
-          {/* Add the new TopTourismCard component */}
-          <div className="md:col-span-1 lg:col-span-1">
-            <TopTourismCard
-              monthName={tourismData.monthName}
-              monthValue={tourismData.monthValue}
-              year={tourismData.year}
-              yearValue={tourismData.yearValue}
-              countries={tourismData.countries}
-            />
-          </div>
-        </div>
+        <MetricsCard
+          title="Average Daily Spending"
+          value={metrics.avgSpending}
+          valuePrefix="$"
+          icon={<Clock className="h-4 w-4 text-muted-foreground" />}
+          subtitle={`Per tourist in ${selectedYear}`}
+        />
+      </div>
+
+      <RevenueOverviewChart data={currentYearData.monthlyData} year={selectedYear} />
+
+      {previousYear && (
+        <MonthlyComparisonChart
+          currentYearData={currentYearData.monthlyData}
+          previousYearData={previousYearData.monthlyData}
+          currentYear={selectedYear}
+          previousYear={previousYear}
+        />
+      )}
+
+      <div className="grid gap-6 lg:grid-cols-2">
+        {ageData.length > 0 && <AgeDistributionChart data={ageData} year={selectedYear} />}
+
+        {ageData.length > 0 && <TopCountriesChart data={ageData} year={selectedYear} />}
       </div>
     </div>
-  );
-};
-
-export default Dashboard;
+  )
+}

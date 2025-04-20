@@ -1,0 +1,280 @@
+{
+  "years": {
+    "2024": {
+      "monthlyData": [
+        {
+          "month": "January",
+          "touristCount": 208253,
+          "averageUSD": 181.15,
+          "averageDuration": 8.75,
+          "totalRevenue": 330094.021
+        },
+        {
+          "month": "February",
+          "touristCount": 218350,
+          "averageUSD": 181.15,
+          "averageDuration": 8.37,
+          "totalRevenue": 331067.838
+        },
+        {
+          "month": "March",
+          "touristCount": 209181,
+          "averageUSD": 181.15,
+          "averageDuration": 9.35,
+          "totalRevenue": 354300.842
+        },
+        {
+          "month": "April",
+          "touristCount": 148867,
+          "averageUSD": 181.15,
+          "averageDuration": 8.61,
+          "totalRevenue": 232188.083
+        },
+        {
+          "month": "May",
+          "touristCount": 112128,
+          "averageUSD": 181.15,
+          "averageDuration": 7.4,
+          "totalRevenue": 150308.705
+        },
+        {
+          "month": "June",
+          "touristCount": 113470,
+          "averageUSD": 181.15,
+          "averageDuration": 7.28,
+          "totalRevenue": 149641.059
+        },
+        {
+          "month": "July",
+          "touristCount": 187810,
+          "averageUSD": 181.15,
+          "averageDuration": 9.72,
+          "totalRevenue": 330691.716
+        },
+        {
+          "month": "August",
+          "touristCount": 164609,
+          "averageUSD": 181.15,
+          "averageDuration": 9.37,
+          "totalRevenue": 279403.284
+        },
+        {
+          "month": "September",
+          "touristCount": 122140,
+          "averageUSD": 181.15,
+          "averageDuration": 8.29,
+          "totalRevenue": 183421.73
+        },
+        {
+          "month": "October",
+          "touristCount": 135907,
+          "averageUSD": 181.15,
+          "averageDuration": 7.21,
+          "totalRevenue": 177506.977
+        },
+        {
+          "month": "November",
+          "touristCount": 184158,
+          "averageUSD": 181.15,
+          "averageDuration": 8.52,
+          "totalRevenue": 284229.089
+        },
+        {
+          "month": "December",
+          "touristCount": 248592,
+          "averageUSD": 181.15,
+          "averageDuration": 7.82,
+          "totalRevenue": 352153.687
+        }
+      ],
+      "totalData": {
+        "touristCount": 2053465,
+        "totalRevenue": 3155007.031
+      }
+    },
+    "2023": {
+      "monthlyData": [
+        {
+          "month": "January",
+          "touristCount": 102545,
+          "averageUSD": 311.0,
+          "averageDuration": 9.38,
+          "totalRevenue": 299142.223
+        },
+        {
+          "month": "February",
+          "touristCount": 107639,
+          "averageUSD": 311.0,
+          "averageDuration": 8.89,
+          "totalRevenue": 297599.231
+        },
+        {
+          "month": "March",
+          "touristCount": 125495,
+          "averageUSD": 311.0,
+          "averageDuration": 8.97,
+          "totalRevenue": 350089.637
+        },
+        {
+          "month": "April",
+          "touristCount": 105498,
+          "averageUSD": 311.0,
+          "averageDuration": 8.1,
+          "totalRevenue": 265760.012
+        },
+        {
+          "month": "May",
+          "touristCount": 83309,
+          "averageUSD": 311.0,
+          "averageDuration": 7.75,
+          "totalRevenue": 200795.517
+        },
+        {
+          "month": "June",
+          "touristCount": 100388,
+          "averageUSD": 311.0,
+          "averageDuration": 7.7,
+          "totalRevenue": 240399.144
+        },
+        {
+          "month": "July",
+          "touristCount": 143039,
+          "averageUSD": 311.0,
+          "averageDuration": 9.8,
+          "totalRevenue": 435954.264
+        },
+        {
+          "month": "August",
+          "touristCount": 136405,
+          "averageUSD": 311.0,
+          "averageDuration": 9.24,
+          "totalRevenue": 391978.864
+        },
+        {
+          "month": "September",
+          "touristCount": 111938,
+          "averageUSD": 311.0,
+          "averageDuration": 8.29,
+          "totalRevenue": 288597.432
+        },
+        {
+          "month": "October",
+          "touristCount": 109199,
+          "averageUSD": 311.0,
+          "averageDuration": 7.49,
+          "totalRevenue": 254367.059
+        },
+        {
+          "month": "November",
+          "touristCount": 151496,
+          "averageUSD": 311.0,
+          "averageDuration": 8.46,
+          "totalRevenue": 398595.066
+        },
+        {
+          "month": "December",
+          "touristCount": 210352,
+          "averageUSD": 311.0,
+          "averageDuration": 7.91,
+          "totalRevenue": 517468.024
+        }
+      ],
+      "totalData": {
+        "touristCount": 1487303,
+        "totalRevenue": 3940746.473
+      }
+    },
+    "2019": {
+      "monthlyData": [
+        {
+          "month": "January",
+          "touristCount": 244239,
+          "averageUSD": 181.0,
+          "averageDuration": 8.78,
+          "totalRevenue": 388139.734
+        },
+        {
+          "month": "February",
+          "touristCount": 252033,
+          "averageUSD": 181.0,
+          "averageDuration": 8.43,
+          "totalRevenue": 384559.512
+        },
+        {
+          "month": "March",
+          "touristCount": 244328,
+          "averageUSD": 181.0,
+          "averageDuration": 8.81,
+          "totalRevenue": 389607.872
+        },
+        {
+          "month": "April",
+          "touristCount": 166975,
+          "averageUSD": 181.0,
+          "averageDuration": 8.71,
+          "totalRevenue": 263237.757
+        },
+        {
+          "month": "May",
+          "touristCount": 37802,
+          "averageUSD": 181.0,
+          "averageDuration": 7.33,
+          "totalRevenue": 50153.047
+        },
+        {
+          "month": "June",
+          "touristCount": 63072,
+          "averageUSD": 181.0,
+          "averageDuration": 7.72,
+          "totalRevenue": 88131.767
+        },
+        {
+          "month": "July",
+          "touristCount": 115701,
+          "averageUSD": 181.0,
+          "averageDuration": 9.58,
+          "totalRevenue": 200623.22
+        },
+        {
+          "month": "August",
+          "touristCount": 143587,
+          "averageUSD": 181.0,
+          "averageDuration": 9.53,
+          "totalRevenue": 247677.524
+        },
+        {
+          "month": "September",
+          "touristCount": 108575,
+          "averageUSD": 181.0,
+          "averageDuration": 8.31,
+          "totalRevenue": 163308.743
+        },
+        {
+          "month": "October",
+          "touristCount": 118743,
+          "averageUSD": 181.0,
+          "averageDuration": 7.74,
+          "totalRevenue": 166351.818
+        },
+        {
+          "month": "November",
+          "touristCount": 176984,
+          "averageUSD": 181.0,
+          "averageDuration": 8.34,
+          "totalRevenue": 267164.427
+        },
+        {
+          "month": "December",
+          "touristCount": 241663,
+          "averageUSD": 181.0,
+          "averageDuration": 7.67,
+          "totalRevenue": 335493.493
+        }
+      ],
+      "totalData": {
+        "touristCount": 1913702,
+        "totalRevenue": 2944448.914
+      }
+    }
+  }
+}
