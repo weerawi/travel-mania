@@ -21,11 +21,11 @@ const items: NavItem[] = [
     href: "/home/forecasting",
     icon: BarChart3,
   },
-  {
-    title: "Reports",
-    href: "/home/reports",
-    icon: FileText,
-  },
+  // {
+  //   title: "Reports",
+  //   href: "/home/reports",
+  //   icon: FileText,
+  // },
   {
     title: "Setting",
     href: "/home/setting",

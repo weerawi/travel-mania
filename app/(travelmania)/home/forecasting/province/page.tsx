@@ -478,7 +478,7 @@ export default function ProvinceForecasting() {
                         <Legend />
                         <Bar
                           dataKey="value"
-                          fill="#064e3b"
+                          fill="#0d9488"
                           name="Tourist Arrivals"
                         />
                       </BarChart>

@@ -1,15 +1,15 @@
-"use client"
+"use client";
 
-import { useState, useEffect } from "react"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import { Input } from "@/components/ui/input"
-import { Badge } from "@/components/ui/badge"
-import axios from "axios"
+import { useState, useEffect } from "react";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Input } from "@/components/ui/input";
+import { Badge } from "@/components/ui/badge";
+import axios from "axios";
 
 const Setting = () => {
-  const [isLoading, setIsLoading] = useState(false)
+  const [isLoading, setIsLoading] = useState(false);
   const [userData, setUserData] = useState({
     _id: "",
     name: "",
@@ -22,64 +22,66 @@ const Setting = () => {
     postalCode: "",
     country: "",
     profileImage: "",
-  })
-  const [errorMessage, setErrorMessage] = useState("")
-  const [successMessage, setSuccessMessage] = useState("")
-
+  });
+  const [errorMessage, setErrorMessage] = useState("");
+  const [successMessage, setSuccessMessage] = useState("");
+  const profile = "/assets/profile.png";
   // Fetch user data when component mounts
   useEffect(() => {
     const fetchUserData = async () => {
       try {
-        setIsLoading(true)
-        const response = await axios.get("/api/user/profile")
+        setIsLoading(true);
+        const response = await axios.get("/api/user/profile");
 
         // Format date for input if it exists
-        const userDataFromServer = response.data
+        const userDataFromServer = response.data;
         if (userDataFromServer.dateOfBirth) {
-          const date = new Date(userDataFromServer.dateOfBirth)
-          userDataFromServer.dateOfBirth = date.toISOString().split("T")[0]
+          const date = new Date(userDataFromServer.dateOfBirth);
+          userDataFromServer.dateOfBirth = date.toISOString().split("T")[0];
         }
 
-        setUserData(userDataFromServer)
-        console.log("Fetched user data:", userDataFromServer)
+        setUserData(userDataFromServer);
+        console.log("Fetched user data:", userDataFromServer);
       } catch (error) {
-        console.error("Error fetching user data:", error)
-        setErrorMessage("Failed to load user data")
+        console.error("Error fetching user data:", error);
+        setErrorMessage("Failed to load user data");
       } finally {
-        setIsLoading(false)
+        setIsLoading(false);
       }
-    }
+    };
 
-    fetchUserData()
-  }, [])
+    fetchUserData();
+  }, []);
 
   const handleChange = (e) => {
-    const { name, value } = e.target
+    const { name, value } = e.target;
     setUserData((prev) => ({
       ...prev,
       [name]: value,
-    }))
-  }
+    }));
+  };
 
   const handleSubmit = async (e) => {
-    e.preventDefault()
-    setIsLoading(true)
-    setErrorMessage("")
-    setSuccessMessage("")
+    e.preventDefault();
+    setIsLoading(true);
+    setErrorMessage("");
+    setSuccessMessage("");
 
     try {
-      console.log("Submitting user data:", userData)
-      const response = await axios.put("/api/user/profile", userData)
+      console.log("Submitting user data:", userData);
+      const response = await axios.put("/api/user/profile", userData);
 
-      setSuccessMessage("Profile updated successfully")
-      console.log("Profile updated successfully:", response.data)
+      setSuccessMessage("Profile updated successfully");
+      console.log("Profile updated successfully:", response.data);
     } catch (error) {
-      console.error("Error updating profile:", error)
-      setErrorMessage(error.response?.data?.error || "Failed to update profile")
+      console.error("Error updating profile:", error);
+      setErrorMessage(
+        error.response?.data?.error || "Failed to update profile"
+      );
     } finally {
-      setIsLoading(false)
+      setIsLoading(false);
     }
-  }
+  };
 
   return (
     <div className="container mx-auto py-6">
@@ -88,23 +90,32 @@ const Setting = () => {
           <CardTitle>Edit Profile</CardTitle>
         </CardHeader>
         <CardContent>
-          {errorMessage && <div className="mb-4 p-3 bg-red-100 text-red-700 rounded-md">{errorMessage}</div>}
-          {successMessage && <div className="mb-4 p-3 bg-green-100 text-green-700 rounded-md">{successMessage}</div>}
+          {errorMessage && (
+            <div className="mb-4 p-3 bg-red-100 text-red-700 rounded-md">
+              {errorMessage}
+            </div>
+          )}
+          {successMessage && (
+            <div className="mb-4 p-3 bg-green-100 text-green-700 rounded-md">
+              {successMessage}
+            </div>
+          )}
 
           <div className="mb-6">
             <div className="relative w-24">
               <Avatar className="h-24 w-24">
                 <AvatarImage
-                  src={
-                    userData.profileImage ||
-                    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-fRXHTq1XM7BEPAH2xGfoaRIKDfamQP.png" ||
-                    "/placeholder.svg"
-                  }
+                  src={userData.profileImage || profile}
                   alt="Profile"
                 />
-                <AvatarFallback>{userData.name?.substring(0, 2).toUpperCase() || "UN"}</AvatarFallback>
+                <AvatarFallback>
+                  {userData.name?.substring(0, 2).toUpperCase() || "UN"}
+                </AvatarFallback>
               </Avatar>
-              <Badge className="absolute -right-2 -bottom-1 h-6 w-6 rounded-full p-1" variant="default">
+              <Badge
+                className="absolute -right-2 -bottom-1 h-6 w-6 rounded-full p-1"
+                variant="default"
+              >
                 ✏️
               </Badge>
             </div>
@@ -113,12 +124,22 @@ const Setting = () => {
             <div className="grid gap-6 md:grid-cols-2">
               <div className="space-y-2">
                 <div className="font-medium">Your Name</div>
-                <Input name="name" value={userData.name || ""} onChange={handleChange} placeholder="Your Name" />
+                <Input
+                  name="name"
+                  value={userData.name || ""}
+                  onChange={handleChange}
+                  placeholder="Your Name"
+                />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">User Name</div>
-                <Input name="username" value={userData.username || ""} onChange={handleChange} placeholder="Username" />
+                <Input
+                  name="username"
+                  value={userData.username || ""}
+                  onChange={handleChange}
+                  placeholder="Username"
+                />
               </div>
 
               <div className="space-y-2">
@@ -135,7 +156,12 @@ const Setting = () => {
 
               <div className="space-y-2">
                 <div className="font-medium">Date of Birth</div>
-                <Input type="date" name="dateOfBirth" value={userData.dateOfBirth || ""} onChange={handleChange} />
+                <Input
+                  type="date"
+                  name="dateOfBirth"
+                  value={userData.dateOfBirth || ""}
+                  onChange={handleChange}
+                />
               </div>
 
               <div className="space-y-2">
@@ -160,7 +186,12 @@ const Setting = () => {
 
               <div className="space-y-2">
                 <div className="font-medium">City</div>
-                <Input name="city" value={userData.city || ""} onChange={handleChange} placeholder="City" />
+                <Input
+                  name="city"
+                  value={userData.city || ""}
+                  onChange={handleChange}
+                  placeholder="City"
+                />
               </div>
 
               <div className="space-y-2">
@@ -175,7 +206,12 @@ const Setting = () => {
 
               <div className="space-y-2">
                 <div className="font-medium">Country</div>
-                <Input name="country" value={userData.country || ""} onChange={handleChange} placeholder="Country" />
+                <Input
+                  name="country"
+                  value={userData.country || ""}
+                  onChange={handleChange}
+                  placeholder="Country"
+                />
               </div>
             </div>
 
@@ -188,7 +224,7 @@ const Setting = () => {
         </CardContent>
       </Card>
     </div>
-  )
-}
+  );
+};
 
-export default Setting
+export default Setting;
