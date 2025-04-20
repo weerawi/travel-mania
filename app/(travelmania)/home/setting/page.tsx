@@ -96,13 +96,7 @@
 
 // export default Setting
 
-
-
 ///////////////////////////
-
-
-
-
 
 // "use client"
 
@@ -114,7 +108,7 @@
 // import { useState, useEffect } from "react"
 // import axios from "axios"
 // import { useRouter } from "next/navigation"
-// // import { toast } from "@/components/ui/use-toast"  
+// // import { toast } from "@/components/ui/use-toast"
 
 // const Setting = () => {
 //   const router = useRouter()
@@ -131,7 +125,7 @@
 //     country: "",
 //     profileImage: ""
 //   })
-  
+
 //   // Get user from localStorage on component mount
 //   useEffect(() => {
 //     const checkUser = () => {
@@ -142,18 +136,18 @@
 //       }
 //       return JSON.parse(storedUser)
 //     }
-    
+
 //     const user = checkUser()
 //     if (user) {
 //       fetchUserData(user.id)
 //     }
 //   }, [router])
-  
+
 //   const fetchUserData = async (userId) => {
 //     try {
 //       setIsLoading(true)
 //       const response = await axios.get(`/api/user/profile?userId=${userId}`)
-      
+
 //       if (response.data.success) {
 //         const user = response.data.user
 //         setUserData({
@@ -180,7 +174,7 @@
 //       setIsLoading(false)
 //     }
 //   }
-  
+
 //   const handleChange = (e) => {
 //     const { name, value } = e.target
 //     setUserData(prev => ({
@@ -188,19 +182,19 @@
 //       [name]: value
 //     }))
 //   }
-  
+
 //   const handleSubmit = async (e) => {
 //     e.preventDefault()
 //     setIsLoading(true)
-    
+
 //     try {
 //       const userId = JSON.parse(localStorage.getItem('user')).id
-      
+
 //       const response = await axios.put('/api/user/profile', {
 //         userId,
 //         ...userData
 //       })
-      
+
 //       if (response.data.success) {
 //         // Update user in localStorage
 //         const updatedUser = {
@@ -209,7 +203,7 @@
 //           email: userData.email
 //         }
 //         localStorage.setItem('user', JSON.stringify(updatedUser))
-        
+
 //         // toast({
 //         //   title: "Success",
 //         //   description: "Profile updated successfully",
@@ -227,14 +221,14 @@
 //       setIsLoading(false)
 //     }
 //   }
-  
+
 //   // Handle avatar upload - you'll need to implement file upload functionality
 //   const handleAvatarChange = () => {
 //     // Implement file upload logic here
 //     // This is a placeholder for where you'd handle image upload
 //     console.log("Avatar change clicked")
 //   }
-  
+
 //   return (
 //     <div className="container mx-auto py-6">
 //       <Card>
@@ -251,8 +245,8 @@
 //                 />
 //                 <AvatarFallback>{userData.name?.charAt(0) || "U"}</AvatarFallback>
 //               </Avatar>
-//               <Badge 
-//                 className="absolute -right-2 -bottom-1 h-6 w-6 rounded-full p-1 cursor-pointer" 
+//               <Badge
+//                 className="absolute -right-2 -bottom-1 h-6 w-6 rounded-full p-1 cursor-pointer"
 //                 variant="default"
 //                 onClick={handleAvatarChange}
 //               >
@@ -260,45 +254,45 @@
 //               </Badge>
 //             </div>
 //           </div>
-          
+
 //           <form className="space-y-6" onSubmit={handleSubmit}>
 //             <div className="grid gap-6 md:grid-cols-2">
 //               <div className="space-y-2">
 //                 <div className="font-medium">Your Name</div>
-//                 <Input 
+//                 <Input
 //                   name="name"
-//                   value={userData.name} 
+//                   value={userData.name}
 //                   onChange={handleChange}
-//                   placeholder="Your Name" 
+//                   placeholder="Your Name"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">User Name</div>
-//                 <Input 
+//                 <Input
 //                   name="username"
-//                   value={userData.username} 
+//                   value={userData.username}
 //                   onChange={handleChange}
-//                   placeholder="Username" 
+//                   placeholder="Username"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Email</div>
-//                 <Input 
-//                   type="email" 
+//                 <Input
+//                   type="email"
 //                   name="email"
-//                   value={userData.email} 
+//                   value={userData.email}
 //                   onChange={handleChange}
-//                   placeholder="email@example.com" 
+//                   placeholder="email@example.com"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Password</div>
-//                 <Input 
-//                   type="password" 
-//                   value="********" 
+//                 <Input
+//                   type="password"
+//                   value="********"
 //                   readOnly
 //                   onClick={() => router.push('/settings/change-password')}
 //                   className="cursor-pointer"
@@ -308,68 +302,68 @@
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Date of Birth</div>
-//                 <Input 
-//                   type="date" 
+//                 <Input
+//                   type="date"
 //                   name="dateOfBirth"
-//                   value={userData.dateOfBirth} 
+//                   value={userData.dateOfBirth}
 //                   onChange={handleChange}
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Present Address</div>
-//                 <Input 
+//                 <Input
 //                   name="presentAddress"
-//                   value={userData.presentAddress} 
+//                   value={userData.presentAddress}
 //                   onChange={handleChange}
-//                   placeholder="Your current address" 
+//                   placeholder="Your current address"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Permanent Address</div>
-//                 <Input 
+//                 <Input
 //                   name="permanentAddress"
-//                   value={userData.permanentAddress} 
+//                   value={userData.permanentAddress}
 //                   onChange={handleChange}
-//                   placeholder="Your permanent address" 
+//                   placeholder="Your permanent address"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">City</div>
-//                 <Input 
+//                 <Input
 //                   name="city"
-//                   value={userData.city} 
+//                   value={userData.city}
 //                   onChange={handleChange}
-//                   placeholder="City" 
+//                   placeholder="City"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Postal Code</div>
-//                 <Input 
+//                 <Input
 //                   name="postalCode"
-//                   value={userData.postalCode} 
+//                   value={userData.postalCode}
 //                   onChange={handleChange}
-//                   placeholder="Postal Code" 
+//                   placeholder="Postal Code"
 //                 />
 //               </div>
 
 //               <div className="space-y-2">
 //                 <div className="font-medium">Country</div>
-//                 <Input 
+//                 <Input
 //                   name="country"
-//                   value={userData.country} 
+//                   value={userData.country}
 //                   onChange={handleChange}
-//                   placeholder="Country" 
+//                   placeholder="Country"
 //                 />
 //               </div>
 //             </div>
 
 //             <div className="flex justify-end">
-//               <Button 
-//                 className="w-24" 
+//               <Button
+//                 className="w-24"
 //                 type="submit"
 //                 disabled={isLoading}
 //               >
@@ -385,15 +379,6 @@
 
 // export default Setting
 
-
-
-
-
-
-
-
-
-
 "use client"
 
 import { useState, useEffect } from "react"
@@ -402,9 +387,12 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
+import axios from "axios"
 
 const Setting = () => {
-  const [user, setUser] = useState({
+  const [isLoading, setIsLoading] = useState(false)
+  const [userData, setUserData] = useState({
+    _id: "",
     name: "",
     email: "",
     username: "",
@@ -414,83 +402,64 @@ const Setting = () => {
     city: "",
     postalCode: "",
     country: "",
-    profileImage: ""
+    profileImage: "",
   })
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
+  const [errorMessage, setErrorMessage] = useState("")
+  const [successMessage, setSuccessMessage] = useState("")
 
   // Fetch user data when component mounts
   useEffect(() => {
     const fetchUserData = async () => {
       try {
-        const response = await fetch('/api/user')
-        
-        if (!response.ok) {
-          throw new Error(`Failed to fetch: ${response.status}`)
+        setIsLoading(true)
+        const response = await axios.get("/api/user/profile")
+
+        // Format date for input if it exists
+        const userDataFromServer = response.data
+        if (userDataFromServer.dateOfBirth) {
+          const date = new Date(userDataFromServer.dateOfBirth)
+          userDataFromServer.dateOfBirth = date.toISOString().split("T")[0]
         }
-        
-        const userData = await response.json()
-        console.log("Fetched user data:", userData)
-        
-        // Format the date of birth if it exists
-        if (userData.dateOfBirth) {
-          const date = new Date(userData.dateOfBirth)
-          userData.dateOfBirth = date.toISOString().split('T')[0]
-        }
-        
-        setUser(userData)
+
+        setUserData(userDataFromServer)
+        console.log("Fetched user data:", userDataFromServer)
       } catch (error) {
-        console.log('Error fetching user data:', error)
-        // setError('Failed to load user data')
+        console.error("Error fetching user data:", error)
+        setErrorMessage("Failed to load user data")
       } finally {
-        setLoading(false)
+        setIsLoading(false)
       }
     }
 
     fetchUserData()
   }, [])
 
-  // Update form field values
   const handleChange = (e) => {
     const { name, value } = e.target
-    setUser(prev => ({
+    setUserData((prev) => ({
       ...prev,
-      [name]: value
+      [name]: value,
     }))
   }
 
-  // Handle form submission
   const handleSubmit = async (e) => {
     e.preventDefault()
-    
+    setIsLoading(true)
+    setErrorMessage("")
+    setSuccessMessage("")
+
     try {
-      console.log("Submitting user data:", user)
-      
-      const response = await fetch('/api/user/update', {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(user)
-      })
+      console.log("Submitting user data:", userData)
+      const response = await axios.put("/api/user/profile", userData)
 
-      if (!response.ok) {
-        throw new Error(`Failed to update: ${response.status}`)
-      }
-      
-      const result = await response.json()
-      console.log('Profile updated successfully:', result)
+      setSuccessMessage("Profile updated successfully")
+      console.log("Profile updated successfully:", response.data)
     } catch (error) {
-      console.log('Error updating profile:', error)
+      console.error("Error updating profile:", error)
+      setErrorMessage(error.response?.data?.error || "Failed to update profile")
+    } finally {
+      setIsLoading(false)
     }
-  }
-
-  if (loading) {
-    return <div className="container mx-auto py-6">Loading user data...</div>
-  }
-
-  if (error) {
-    return <div className="container mx-auto py-6">Error: {error}</div>
   }
 
   return (
@@ -500,14 +469,21 @@ const Setting = () => {
           <CardTitle>Edit Profile</CardTitle>
         </CardHeader>
         <CardContent>
+          {errorMessage && <div className="mb-4 p-3 bg-red-100 text-red-700 rounded-md">{errorMessage}</div>}
+          {successMessage && <div className="mb-4 p-3 bg-green-100 text-green-700 rounded-md">{successMessage}</div>}
+
           <div className="mb-6">
             <div className="relative w-24">
               <Avatar className="h-24 w-24">
                 <AvatarImage
-                  src={user.profileImage || "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-fRXHTq1XM7BEPAH2xGfoaRIKDfamQP.png"}
+                  src={
+                    userData.profileImage ||
+                    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-fRXHTq1XM7BEPAH2xGfoaRIKDfamQP.png" ||
+                    "/placeholder.svg"
+                  }
                   alt="Profile"
                 />
-                <AvatarFallback>{user.name?.substring(0, 2).toUpperCase() || "CN"}</AvatarFallback>
+                <AvatarFallback>{userData.name?.substring(0, 2).toUpperCase() || "UN"}</AvatarFallback>
               </Avatar>
               <Badge className="absolute -right-2 -bottom-1 h-6 w-6 rounded-full p-1" variant="default">
                 ✏️
@@ -518,100 +494,75 @@ const Setting = () => {
             <div className="grid gap-6 md:grid-cols-2">
               <div className="space-y-2">
                 <div className="font-medium">Your Name</div>
-                <Input 
-                  name="name" 
-                  value={user.name} 
-                  onChange={handleChange} 
-                  placeholder="Enter your name" 
-                />
+                <Input name="name" value={userData.name || ""} onChange={handleChange} placeholder="Your Name" />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">User Name</div>
-                <Input 
-                  name="username" 
-                  value={user.username} 
-                  onChange={handleChange} 
-                  placeholder="Enter username" 
-                />
+                <Input name="username" value={userData.username || ""} onChange={handleChange} placeholder="Username" />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">Email</div>
-                <Input 
-                  type="email" 
-                  name="email" 
-                  value={user.email} 
-                  onChange={handleChange} 
-                  placeholder="Enter email" 
+                <Input
+                  type="email"
+                  name="email"
+                  value={userData.email || ""}
+                  onChange={handleChange}
+                  placeholder="Email"
                   readOnly
                 />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">Date of Birth</div>
-                <Input 
-                  type="date" 
-                  name="dateOfBirth" 
-                  value={user.dateOfBirth || ''} 
-                  onChange={handleChange} 
-                />
+                <Input type="date" name="dateOfBirth" value={userData.dateOfBirth || ""} onChange={handleChange} />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">Present Address</div>
-                <Input 
-                  name="presentAddress" 
-                  value={user.presentAddress} 
-                  onChange={handleChange} 
-                  placeholder="Enter present address" 
+                <Input
+                  name="presentAddress"
+                  value={userData.presentAddress || ""}
+                  onChange={handleChange}
+                  placeholder="Present Address"
                 />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">Permanent Address</div>
-                <Input 
-                  name="permanentAddress" 
-                  value={user.permanentAddress} 
-                  onChange={handleChange} 
-                  placeholder="Enter permanent address" 
+                <Input
+                  name="permanentAddress"
+                  value={userData.permanentAddress || ""}
+                  onChange={handleChange}
+                  placeholder="Permanent Address"
                 />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">City</div>
-                <Input 
-                  name="city" 
-                  value={user.city} 
-                  onChange={handleChange} 
-                  placeholder="Enter city" 
-                />
+                <Input name="city" value={userData.city || ""} onChange={handleChange} placeholder="City" />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">Postal Code</div>
-                <Input 
-                  name="postalCode" 
-                  value={user.postalCode} 
-                  onChange={handleChange} 
-                  placeholder="Enter postal code" 
+                <Input
+                  name="postalCode"
+                  value={userData.postalCode || ""}
+                  onChange={handleChange}
+                  placeholder="Postal Code"
                 />
               </div>
 
               <div className="space-y-2">
                 <div className="font-medium">Country</div>
-                <Input 
-                  name="country" 
-                  value={user.country} 
-                  onChange={handleChange} 
-                  placeholder="Enter country" 
-                />
+                <Input name="country" value={userData.country || ""} onChange={handleChange} placeholder="Country" />
               </div>
             </div>
 
             <div className="flex justify-end">
-              <Button className="w-24" type="submit">
-                Save
+              <Button className="w-24" type="submit" disabled={isLoading}>
+                {isLoading ? "Saving..." : "Save"}
               </Button>
             </div>
           </form>
