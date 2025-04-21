@@ -6,12 +6,12 @@ import { TourismCombinedChart } from "@/components/tourism-purpose-base-trend";
 
 export default function PurposeForecasting() {
   return (
-    <Card>
+    <Card className="w-full xl:w-[62vw]  lg:max-w-5xl " >
       <CardHeader>
         <CardTitle>Purpose-Based Tourism Forecasting</CardTitle>
       </CardHeader>
       <CardContent className="overflow-x-hidden">
-      <TourismCombinedChart data={tourismPurposeArrivalData} height={200} />
+      <TourismCombinedChart   className="w-full xl:w-[60vw]  lg:max-w-4xl " data={tourismPurposeArrivalData} height={200} />
       </CardContent>
        
     </Card>
