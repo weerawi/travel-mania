@@ -1,16 +1,34 @@
-"use client"
+"use client";
 
-import { useMemo } from "react"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { type ChartConfig, ChartContainer, ChartTooltip } from "@/components/ui/chart"
-import { Bar, BarChart, CartesianGrid, XAxis, YAxis, ResponsiveContainer, Legend } from "recharts"
-import type { MonthlyRevenueData } from "@/types/tourism-data"
+import { useMemo } from "react";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import {
+  type ChartConfig,
+  ChartContainer,
+  ChartTooltip,
+} from "@/components/ui/chart";
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  XAxis,
+  YAxis,
+  ResponsiveContainer,
+  Legend,
+} from "recharts";
+import type { MonthlyRevenueData } from "@/types/tourism-data";
 
 interface MonthlyComparisonChartProps {
-  currentYearData: MonthlyRevenueData[]
-  previousYearData: MonthlyRevenueData[]
-  currentYear: string
-  previousYear: string
+  currentYearData: MonthlyRevenueData[];
+  previousYearData: MonthlyRevenueData[];
+  currentYear: string;
+  previousYear: string;
 }
 
 const chartConfig = {
@@ -22,7 +40,7 @@ const chartConfig = {
     label: "Previous Year",
     color: "hsl(var(--chart-3))",
   },
-} satisfies ChartConfig
+} satisfies ChartConfig;
 
 export function MonthlyComparisonChart({
   currentYearData,
@@ -32,32 +50,32 @@ export function MonthlyComparisonChart({
 }: MonthlyComparisonChartProps) {
   // Format large numbers with k and M suffixes
   const formatYAxis = (value: number) => {
-    if (value >= 1000000) return `${(value / 1000000).toFixed(1)}M`
-    if (value >= 1000) return `${(value / 1000).toFixed(0)}k`
-    return value
-  }
+    if (value >= 1000000) return `${(value / 1000000).toFixed(1)}M`;
+    if (value >= 1000) return `${(value / 1000).toFixed(0)}k`;
+    return value;
+  };
 
   // Prepare data for the chart
   const chartData = useMemo(() => {
     return currentYearData.map((item, index) => {
-      const prevItem = previousYearData[index] || { touristCount: 0 }
+      const prevItem = previousYearData[index] || { touristCount: 0 };
       return {
         month: item.month.substring(0, 3), // Abbreviate month names
         [currentYear]: item.touristCount,
         [previousYear]: prevItem.touristCount,
         fullMonth: item.month,
-      }
-    })
-  }, [currentYearData, previousYearData, currentYear, previousYear])
+      };
+    });
+  }, [currentYearData, previousYearData, currentYear, previousYear]);
 
   // Calculate the maximum value for the Y-axis
   const maxTouristCount = Math.max(
     ...currentYearData.map((item) => item.touristCount),
-    ...previousYearData.map((item) => item.touristCount),
-  )
+    ...previousYearData.map((item) => item.touristCount)
+  );
 
   return (
-    <Card>
+    <Card className="w-full xl:w-[40vw]  lg:max-w-xl">
       <CardHeader>
         <CardTitle>Monthly Tourist Comparison</CardTitle>
         <CardDescription>
@@ -67,8 +85,15 @@ export function MonthlyComparisonChart({
       <CardContent>
         <ChartContainer config={chartConfig}>
           <ResponsiveContainer width="100%" height={350}>
-            <BarChart data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 10 }}>
-              <CartesianGrid strokeDasharray="3 3" vertical={false} opacity={0.2} />
+            <BarChart
+              data={chartData}
+              margin={{ top: 20, right: 30, left: 20, bottom: 10 }}
+            >
+              <CartesianGrid
+                strokeDasharray="3 3"
+                vertical={false}
+                opacity={0.2}
+              />
               <XAxis dataKey="month" tickLine={false} axisLine={false} />
               <YAxis
                 axisLine={false}
@@ -79,33 +104,52 @@ export function MonthlyComparisonChart({
               <ChartTooltip
                 content={({ active, payload, label }) => {
                   if (active && payload && payload.length) {
-                    const fullMonth = payload[0].payload.fullMonth
+                    const fullMonth = payload[0].payload.fullMonth;
                     return (
                       <div className="rounded-lg border bg-background p-2 shadow-sm">
                         <div className="grid gap-2">
                           <div className="font-medium">{fullMonth}</div>
                           <div className="grid gap-2">
                             {payload.map((entry, index) => (
-                              <div key={index} className="flex items-center gap-2">
-                                <div className="h-2 w-2 rounded-full" style={{ backgroundColor: entry.color }}></div>
+                              <div
+                                key={index}
+                                className="flex items-center gap-2"
+                              >
+                                <div
+                                  className="h-2 w-2 rounded-full"
+                                  style={{ backgroundColor: entry.color }}
+                                ></div>
                                 <span className="text-[0.70rem] uppercase text-muted-foreground">
                                   {entry.name} Tourists
                                 </span>
-                                <span className="font-bold">{entry.value.toLocaleString()}</span>
+                                <span className="font-bold">
+                                  {entry.value.toLocaleString()}
+                                </span>
                               </div>
                             ))}
                             {payload.length === 2 && (
                               <div className="flex items-center gap-2">
                                 <div className="h-2 w-2 rounded-full bg-emerald-500"></div>
-                                <span className="text-[0.70rem] uppercase text-muted-foreground">Difference</span>
+                                <span className="text-[0.70rem] uppercase text-muted-foreground">
+                                  Difference
+                                </span>
                                 <span
                                   className={`font-bold ${
-                                    payload[0].value - payload[1].value > 0 ? "text-emerald-500" : "text-destructive"
+                                    payload[0].value - payload[1].value > 0
+                                      ? "text-emerald-500"
+                                      : "text-destructive"
                                   }`}
                                 >
-                                  {(payload[0].value - payload[1].value).toLocaleString()} (
+                                  {(
+                                    payload[0].value - payload[1].value
+                                  ).toLocaleString()}{" "}
+                                  (
                                   {payload[1].value
-                                    ? (((payload[0].value - payload[1].value) / payload[1].value) * 100).toFixed(1)
+                                    ? (
+                                        ((payload[0].value - payload[1].value) /
+                                          payload[1].value) *
+                                        100
+                                      ).toFixed(1)
                                     : "100"}
                                   %)
                                 </span>
@@ -114,18 +158,26 @@ export function MonthlyComparisonChart({
                           </div>
                         </div>
                       </div>
-                    )
+                    );
                   }
-                  return null
+                  return null;
                 }}
               />
-              <Bar dataKey={currentYear} fill="var(--color-currentYear)" radius={[4, 4, 0, 0]} />
-              <Bar dataKey={previousYear} fill="var(--color-previousYear)" radius={[4, 4, 0, 0]} />
+              <Bar
+                dataKey={currentYear}
+                fill="var(--color-currentYear)"
+                radius={[4, 4, 0, 0]}
+              />
+              <Bar
+                dataKey={previousYear}
+                fill="var(--color-previousYear)"
+                radius={[4, 4, 0, 0]}
+              />
               <Legend />
             </BarChart>
           </ResponsiveContainer>
         </ChartContainer>
       </CardContent>
     </Card>
-  )
+  );
 }
