@@ -100,7 +100,7 @@ const Setting = () => {
   };
 
   return (
-    <div className="container mx-auto py-6">
+    <div className="container mx-auto pt-5">
       <Card>
         <CardHeader>
           <CardTitle>Edit Profile</CardTitle>
@@ -117,9 +117,9 @@ const Setting = () => {
             </div>
           )}
 
-          <div className="mb-6">
-            <div className="relative w-24">
-              <Avatar className="h-24 w-24">
+          <div className="mb-2">
+            <div className="relative w-20">
+              <Avatar className="h-16 w-16">
                 <AvatarImage
                   src={userData.profileImage || profile}
                   alt="Profile"
@@ -128,17 +128,17 @@ const Setting = () => {
                   {userData.name?.substring(0, 2).toUpperCase() || "UN"}
                 </AvatarFallback>
               </Avatar>
-              <Badge
+              {/* <Badge
                 className="absolute -right-2 -bottom-1 h-6 w-6 rounded-full p-1"
                 variant="default"
               >
                 ✏️
-              </Badge>
+              </Badge> */}
             </div>
           </div>
-          <form className="space-y-6" onSubmit={handleSubmit}>
-            <div className="grid gap-6 md:grid-cols-2">
-              <div className="space-y-2">
+          <form className="space-y-1" onSubmit={handleSubmit}>
+            <div className="grid gap-3 md:grid-cols-2">
+              <div className="space-y-1">
                 <div className="font-medium">Your Name</div>
                 <Input
                   name="name"
@@ -148,7 +148,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">User Name</div>
                 <Input
                   name="username"
@@ -158,7 +158,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">Email</div>
                 <Input
                   type="email"
@@ -170,7 +170,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">Date of Birth</div>
                 <Input
                   type="date"
@@ -180,7 +180,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">Present Address</div>
                 <Input
                   name="presentAddress"
@@ -190,7 +190,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">Permanent Address</div>
                 <Input
                   name="permanentAddress"
@@ -200,7 +200,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">City</div>
                 <Input
                   name="city"
@@ -210,7 +210,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">Postal Code</div>
                 <Input
                   name="postalCode"
@@ -220,7 +220,7 @@ const Setting = () => {
                 />
               </div>
 
-              <div className="space-y-2">
+              <div className="space-y-1">
                 <div className="font-medium">Country</div>
                 <Input
                   name="country"
@@ -229,13 +229,15 @@ const Setting = () => {
                   placeholder="Country"
                 />
               </div>
-            </div>
 
-            <div className="flex justify-end">
-              <Button className="w-24" type="submit" disabled={isLoading}>
+              <div className="flex justify-end items-end">
+              <Button className="w-20" type="submit" disabled={isLoading}>
                 {isLoading ? "Saving..." : "Save"}
               </Button>
             </div>
+            </div>
+
+            
           </form>
         </CardContent>
       </Card>
