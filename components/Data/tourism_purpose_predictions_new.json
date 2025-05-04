@@ -1,0 +1,2162 @@
+[
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "India",
+        "total_tourists": 37011,
+        "purposes": {
+            "Pleasure_Vacation": 21219,
+            "Visiting_Friends_Relatives": 5388,
+            "Convention_Meeting": 2036,
+            "Business": 1672,
+            "Health_Ayurveda": 260,
+            "Sports": 111,
+            "Education": 37,
+            "Religious_Cultural": 74,
+            "Official": 2,
+            "Other": 6280
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "India",
+        "total_tourists": 31896,
+        "purposes": {
+            "Pleasure_Vacation": 18210,
+            "Visiting_Friends_Relatives": 4616,
+            "Convention_Meeting": 1754,
+            "Business": 1440,
+            "Health_Ayurveda": 223,
+            "Sports": 96,
+            "Education": 32,
+            "Religious_Cultural": 64,
+            "Official": 2,
+            "Other": 5370
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "India",
+        "total_tourists": 27528,
+        "purposes": {
+            "Pleasure_Vacation": 15918,
+            "Visiting_Friends_Relatives": 3959,
+            "Convention_Meeting": 1511,
+            "Business": 1243,
+            "Health_Ayurveda": 192,
+            "Sports": 83,
+            "Education": 28,
+            "Religious_Cultural": 56,
+            "Official": 2,
+            "Other": 4600
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "India",
+        "total_tourists": 24344,
+        "purposes": {
+            "Pleasure_Vacation": 13830,
+            "Visiting_Friends_Relatives": 3537,
+            "Convention_Meeting": 1341,
+            "Business": 1094,
+            "Health_Ayurveda": 170,
+            "Sports": 72,
+            "Education": 24,
+            "Religious_Cultural": 48,
+            "Official": 1,
+            "Other": 4083
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "India",
+        "total_tourists": 19165,
+        "purposes": {
+            "Pleasure_Vacation": 10828,
+            "Visiting_Friends_Relatives": 2758,
+            "Convention_Meeting": 1044,
+            "Business": 860,
+            "Health_Ayurveda": 133,
+            "Sports": 57,
+            "Education": 19,
+            "Religious_Cultural": 37,
+            "Official": 1,
+            "Other": 3182
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "India",
+        "total_tourists": 16806,
+        "purposes": {
+            "Pleasure_Vacation": 9629,
+            "Visiting_Friends_Relatives": 2424,
+            "Convention_Meeting": 921,
+            "Business": 749,
+            "Health_Ayurveda": 116,
+            "Sports": 50,
+            "Education": 17,
+            "Religious_Cultural": 33,
+            "Official": 1,
+            "Other": 2845
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "India",
+        "total_tourists": 19501,
+        "purposes": {
+            "Pleasure_Vacation": 11230,
+            "Visiting_Friends_Relatives": 2822,
+            "Convention_Meeting": 1073,
+            "Business": 878,
+            "Health_Ayurveda": 137,
+            "Sports": 59,
+            "Education": 20,
+            "Religious_Cultural": 39,
+            "Official": 1,
+            "Other": 3313
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "India",
+        "total_tourists": 22283,
+        "purposes": {
+            "Pleasure_Vacation": 12778,
+            "Visiting_Friends_Relatives": 3236,
+            "Convention_Meeting": 1229,
+            "Business": 1005,
+            "Health_Ayurveda": 157,
+            "Sports": 67,
+            "Education": 22,
+            "Religious_Cultural": 44,
+            "Official": 1,
+            "Other": 3772
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "India",
+        "total_tourists": 24259,
+        "purposes": {
+            "Pleasure_Vacation": 13875,
+            "Visiting_Friends_Relatives": 3506,
+            "Convention_Meeting": 1333,
+            "Business": 1095,
+            "Health_Ayurveda": 170,
+            "Sports": 73,
+            "Education": 24,
+            "Religious_Cultural": 48,
+            "Official": 1,
+            "Other": 4118
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "India",
+        "total_tourists": 26865,
+        "purposes": {
+            "Pleasure_Vacation": 15432,
+            "Visiting_Friends_Relatives": 3890,
+            "Convention_Meeting": 1476,
+            "Business": 1207,
+            "Health_Ayurveda": 187,
+            "Sports": 81,
+            "Education": 27,
+            "Religious_Cultural": 54,
+            "Official": 1,
+            "Other": 4540
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "India",
+        "total_tourists": 30487,
+        "purposes": {
+            "Pleasure_Vacation": 17457,
+            "Visiting_Friends_Relatives": 4402,
+            "Convention_Meeting": 1681,
+            "Business": 1368,
+            "Health_Ayurveda": 213,
+            "Sports": 92,
+            "Education": 30,
+            "Religious_Cultural": 61,
+            "Official": 2,
+            "Other": 5134
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "India",
+        "total_tourists": 36795,
+        "purposes": {
+            "Pleasure_Vacation": 21012,
+            "Visiting_Friends_Relatives": 5327,
+            "Convention_Meeting": 2024,
+            "Business": 1657,
+            "Health_Ayurveda": 257,
+            "Sports": 111,
+            "Education": 37,
+            "Religious_Cultural": 74,
+            "Official": 2,
+            "Other": 6219
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Russian Federation",
+        "total_tourists": 23649,
+        "purposes": {
+            "Pleasure_Vacation": 13559,
+            "Visiting_Friends_Relatives": 3422,
+            "Convention_Meeting": 1300,
+            "Business": 1068,
+            "Health_Ayurveda": 165,
+            "Sports": 71,
+            "Education": 24,
+            "Religious_Cultural": 47,
+            "Official": 1,
+            "Other": 3991
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Russian Federation",
+        "total_tourists": 18533,
+        "purposes": {
+            "Pleasure_Vacation": 10651,
+            "Visiting_Friends_Relatives": 2724,
+            "Convention_Meeting": 1022,
+            "Business": 843,
+            "Health_Ayurveda": 129,
+            "Sports": 55,
+            "Education": 18,
+            "Religious_Cultural": 36,
+            "Official": 1,
+            "Other": 3115
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Russian Federation",
+        "total_tourists": 16697,
+        "purposes": {
+            "Pleasure_Vacation": 9549,
+            "Visiting_Friends_Relatives": 2415,
+            "Convention_Meeting": 917,
+            "Business": 751,
+            "Health_Ayurveda": 117,
+            "Sports": 50,
+            "Education": 17,
+            "Religious_Cultural": 33,
+            "Official": 1,
+            "Other": 2825
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Russian Federation",
+        "total_tourists": 13612,
+        "purposes": {
+            "Pleasure_Vacation": 7794,
+            "Visiting_Friends_Relatives": 1972,
+            "Convention_Meeting": 750,
+            "Business": 616,
+            "Health_Ayurveda": 96,
+            "Sports": 41,
+            "Education": 14,
+            "Religious_Cultural": 28,
+            "Official": 1,
+            "Other": 2296
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Russian Federation",
+        "total_tourists": 11669,
+        "purposes": {
+            "Pleasure_Vacation": 6690,
+            "Visiting_Friends_Relatives": 1706,
+            "Convention_Meeting": 645,
+            "Business": 528,
+            "Health_Ayurveda": 82,
+            "Sports": 35,
+            "Education": 12,
+            "Religious_Cultural": 23,
+            "Official": 1,
+            "Other": 1979
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Russian Federation",
+        "total_tourists": 10731,
+        "purposes": {
+            "Pleasure_Vacation": 6081,
+            "Visiting_Friends_Relatives": 1530,
+            "Convention_Meeting": 578,
+            "Business": 472,
+            "Health_Ayurveda": 74,
+            "Sports": 32,
+            "Education": 11,
+            "Religious_Cultural": 21,
+            "Official": 1,
+            "Other": 1806
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Russian Federation",
+        "total_tourists": 12320,
+        "purposes": {
+            "Pleasure_Vacation": 7088,
+            "Visiting_Friends_Relatives": 1790,
+            "Convention_Meeting": 679,
+            "Business": 555,
+            "Health_Ayurveda": 88,
+            "Sports": 37,
+            "Education": 12,
+            "Religious_Cultural": 25,
+            "Official": 1,
+            "Other": 2094
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Russian Federation",
+        "total_tourists": 14166,
+        "purposes": {
+            "Pleasure_Vacation": 8098,
+            "Visiting_Friends_Relatives": 2057,
+            "Convention_Meeting": 779,
+            "Business": 636,
+            "Health_Ayurveda": 99,
+            "Sports": 43,
+            "Education": 14,
+            "Religious_Cultural": 28,
+            "Official": 1,
+            "Other": 2402
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Russian Federation",
+        "total_tourists": 15705,
+        "purposes": {
+            "Pleasure_Vacation": 8991,
+            "Visiting_Friends_Relatives": 2273,
+            "Convention_Meeting": 864,
+            "Business": 706,
+            "Health_Ayurveda": 110,
+            "Sports": 47,
+            "Education": 16,
+            "Religious_Cultural": 32,
+            "Official": 1,
+            "Other": 2656
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Russian Federation",
+        "total_tourists": 17949,
+        "purposes": {
+            "Pleasure_Vacation": 10299,
+            "Visiting_Friends_Relatives": 2598,
+            "Convention_Meeting": 991,
+            "Business": 809,
+            "Health_Ayurveda": 125,
+            "Sports": 54,
+            "Education": 18,
+            "Religious_Cultural": 36,
+            "Official": 1,
+            "Other": 3033
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Russian Federation",
+        "total_tourists": 19979,
+        "purposes": {
+            "Pleasure_Vacation": 11456,
+            "Visiting_Friends_Relatives": 2897,
+            "Convention_Meeting": 1100,
+            "Business": 899,
+            "Health_Ayurveda": 140,
+            "Sports": 60,
+            "Education": 20,
+            "Religious_Cultural": 40,
+            "Official": 1,
+            "Other": 3381
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Russian Federation",
+        "total_tourists": 24589,
+        "purposes": {
+            "Pleasure_Vacation": 14021,
+            "Visiting_Friends_Relatives": 3571,
+            "Convention_Meeting": 1355,
+            "Business": 1107,
+            "Health_Ayurveda": 172,
+            "Sports": 74,
+            "Education": 25,
+            "Religious_Cultural": 49,
+            "Official": 1,
+            "Other": 4155
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "United Kingdom",
+        "total_tourists": 16758,
+        "purposes": {
+            "Pleasure_Vacation": 9608,
+            "Visiting_Friends_Relatives": 2434,
+            "Convention_Meeting": 915,
+            "Business": 749,
+            "Health_Ayurveda": 117,
+            "Sports": 49,
+            "Education": 17,
+            "Religious_Cultural": 32,
+            "Official": 0,
+            "Other": 2821
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "United Kingdom",
+        "total_tourists": 13401,
+        "purposes": {
+            "Pleasure_Vacation": 7639,
+            "Visiting_Friends_Relatives": 1932,
+            "Convention_Meeting": 745,
+            "Business": 603,
+            "Health_Ayurveda": 94,
+            "Sports": 40,
+            "Education": 14,
+            "Religious_Cultural": 27,
+            "Official": 1,
+            "Other": 2245
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "United Kingdom",
+        "total_tourists": 11562,
+        "purposes": {
+            "Pleasure_Vacation": 6682,
+            "Visiting_Friends_Relatives": 1701,
+            "Convention_Meeting": 636,
+            "Business": 524,
+            "Health_Ayurveda": 82,
+            "Sports": 35,
+            "Education": 12,
+            "Religious_Cultural": 24,
+            "Official": 1,
+            "Other": 1973
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "United Kingdom",
+        "total_tourists": 9860,
+        "purposes": {
+            "Pleasure_Vacation": 5602,
+            "Visiting_Friends_Relatives": 1412,
+            "Convention_Meeting": 533,
+            "Business": 434,
+            "Health_Ayurveda": 67,
+            "Sports": 28,
+            "Education": 10,
+            "Religious_Cultural": 19,
+            "Official": 0,
+            "Other": 1672
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "United Kingdom",
+        "total_tourists": 8383,
+        "purposes": {
+            "Pleasure_Vacation": 4760,
+            "Visiting_Friends_Relatives": 1236,
+            "Convention_Meeting": 461,
+            "Business": 382,
+            "Health_Ayurveda": 59,
+            "Sports": 26,
+            "Education": 8,
+            "Religious_Cultural": 17,
+            "Official": 0,
+            "Other": 1462
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "United Kingdom",
+        "total_tourists": 7341,
+        "purposes": {
+            "Pleasure_Vacation": 4197,
+            "Visiting_Friends_Relatives": 1058,
+            "Convention_Meeting": 402,
+            "Business": 325,
+            "Health_Ayurveda": 51,
+            "Sports": 22,
+            "Education": 7,
+            "Religious_Cultural": 14,
+            "Official": 0,
+            "Other": 1227
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "United Kingdom",
+        "total_tourists": 8385,
+        "purposes": {
+            "Pleasure_Vacation": 4809,
+            "Visiting_Friends_Relatives": 1214,
+            "Convention_Meeting": 461,
+            "Business": 376,
+            "Health_Ayurveda": 58,
+            "Sports": 25,
+            "Education": 8,
+            "Religious_Cultural": 17,
+            "Official": 0,
+            "Other": 1414
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "United Kingdom",
+        "total_tourists": 9310,
+        "purposes": {
+            "Pleasure_Vacation": 5339,
+            "Visiting_Friends_Relatives": 1348,
+            "Convention_Meeting": 511,
+            "Business": 419,
+            "Health_Ayurveda": 65,
+            "Sports": 28,
+            "Education": 9,
+            "Religious_Cultural": 19,
+            "Official": 0,
+            "Other": 1572
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "United Kingdom",
+        "total_tourists": 10333,
+        "purposes": {
+            "Pleasure_Vacation": 5907,
+            "Visiting_Friends_Relatives": 1499,
+            "Convention_Meeting": 570,
+            "Business": 467,
+            "Health_Ayurveda": 72,
+            "Sports": 31,
+            "Education": 10,
+            "Religious_Cultural": 21,
+            "Official": 1,
+            "Other": 1745
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "United Kingdom",
+        "total_tourists": 11666,
+        "purposes": {
+            "Pleasure_Vacation": 6696,
+            "Visiting_Friends_Relatives": 1696,
+            "Convention_Meeting": 644,
+            "Business": 525,
+            "Health_Ayurveda": 82,
+            "Sports": 35,
+            "Education": 12,
+            "Religious_Cultural": 23,
+            "Official": 1,
+            "Other": 1975
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "United Kingdom",
+        "total_tourists": 13064,
+        "purposes": {
+            "Pleasure_Vacation": 7500,
+            "Visiting_Friends_Relatives": 1889,
+            "Convention_Meeting": 716,
+            "Business": 587,
+            "Health_Ayurveda": 91,
+            "Sports": 39,
+            "Education": 13,
+            "Religious_Cultural": 26,
+            "Official": 1,
+            "Other": 2205
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "United Kingdom",
+        "total_tourists": 16025,
+        "purposes": {
+            "Pleasure_Vacation": 9199,
+            "Visiting_Friends_Relatives": 2325,
+            "Convention_Meeting": 880,
+            "Business": 722,
+            "Health_Ayurveda": 113,
+            "Sports": 48,
+            "Education": 16,
+            "Religious_Cultural": 32,
+            "Official": 1,
+            "Other": 2715
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Germany",
+        "total_tourists": 11656,
+        "purposes": {
+            "Pleasure_Vacation": 6658,
+            "Visiting_Friends_Relatives": 1666,
+            "Convention_Meeting": 635,
+            "Business": 520,
+            "Health_Ayurveda": 81,
+            "Sports": 34,
+            "Education": 12,
+            "Religious_Cultural": 23,
+            "Official": 1,
+            "Other": 1944
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Germany",
+        "total_tourists": 9192,
+        "purposes": {
+            "Pleasure_Vacation": 5304,
+            "Visiting_Friends_Relatives": 1333,
+            "Convention_Meeting": 501,
+            "Business": 415,
+            "Health_Ayurveda": 64,
+            "Sports": 27,
+            "Education": 9,
+            "Religious_Cultural": 18,
+            "Official": 0,
+            "Other": 1546
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Germany",
+        "total_tourists": 8253,
+        "purposes": {
+            "Pleasure_Vacation": 4759,
+            "Visiting_Friends_Relatives": 1198,
+            "Convention_Meeting": 456,
+            "Business": 373,
+            "Health_Ayurveda": 58,
+            "Sports": 25,
+            "Education": 9,
+            "Religious_Cultural": 16,
+            "Official": 0,
+            "Other": 1398
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Germany",
+        "total_tourists": 6853,
+        "purposes": {
+            "Pleasure_Vacation": 3940,
+            "Visiting_Friends_Relatives": 995,
+            "Convention_Meeting": 369,
+            "Business": 302,
+            "Health_Ayurveda": 48,
+            "Sports": 20,
+            "Education": 7,
+            "Religious_Cultural": 14,
+            "Official": 0,
+            "Other": 1138
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Germany",
+        "total_tourists": 5780,
+        "purposes": {
+            "Pleasure_Vacation": 3320,
+            "Visiting_Friends_Relatives": 835,
+            "Convention_Meeting": 318,
+            "Business": 263,
+            "Health_Ayurveda": 41,
+            "Sports": 17,
+            "Education": 6,
+            "Religious_Cultural": 12,
+            "Official": 0,
+            "Other": 981
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Germany",
+        "total_tourists": 5129,
+        "purposes": {
+            "Pleasure_Vacation": 2939,
+            "Visiting_Friends_Relatives": 747,
+            "Convention_Meeting": 282,
+            "Business": 232,
+            "Health_Ayurveda": 36,
+            "Sports": 15,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 865
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Germany",
+        "total_tourists": 5913,
+        "purposes": {
+            "Pleasure_Vacation": 3387,
+            "Visiting_Friends_Relatives": 858,
+            "Convention_Meeting": 325,
+            "Business": 267,
+            "Health_Ayurveda": 41,
+            "Sports": 18,
+            "Education": 6,
+            "Religious_Cultural": 12,
+            "Official": 0,
+            "Other": 999
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Germany",
+        "total_tourists": 6852,
+        "purposes": {
+            "Pleasure_Vacation": 3923,
+            "Visiting_Friends_Relatives": 993,
+            "Convention_Meeting": 376,
+            "Business": 308,
+            "Health_Ayurveda": 48,
+            "Sports": 21,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1158
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Germany",
+        "total_tourists": 7485,
+        "purposes": {
+            "Pleasure_Vacation": 4288,
+            "Visiting_Friends_Relatives": 1086,
+            "Convention_Meeting": 412,
+            "Business": 336,
+            "Health_Ayurveda": 52,
+            "Sports": 22,
+            "Education": 7,
+            "Religious_Cultural": 15,
+            "Official": 0,
+            "Other": 1268
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Germany",
+        "total_tourists": 8455,
+        "purposes": {
+            "Pleasure_Vacation": 4840,
+            "Visiting_Friends_Relatives": 1227,
+            "Convention_Meeting": 465,
+            "Business": 379,
+            "Health_Ayurveda": 59,
+            "Sports": 25,
+            "Education": 8,
+            "Religious_Cultural": 17,
+            "Official": 0,
+            "Other": 1428
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Germany",
+        "total_tourists": 9606,
+        "purposes": {
+            "Pleasure_Vacation": 5505,
+            "Visiting_Friends_Relatives": 1396,
+            "Convention_Meeting": 530,
+            "Business": 434,
+            "Health_Ayurveda": 67,
+            "Sports": 29,
+            "Education": 10,
+            "Religious_Cultural": 19,
+            "Official": 0,
+            "Other": 1625
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Germany",
+        "total_tourists": 11932,
+        "purposes": {
+            "Pleasure_Vacation": 6804,
+            "Visiting_Friends_Relatives": 1728,
+            "Convention_Meeting": 652,
+            "Business": 536,
+            "Health_Ayurveda": 83,
+            "Sports": 35,
+            "Education": 12,
+            "Religious_Cultural": 23,
+            "Official": 1,
+            "Other": 2018
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "China",
+        "total_tourists": 12424,
+        "purposes": {
+            "Pleasure_Vacation": 7086,
+            "Visiting_Friends_Relatives": 1774,
+            "Convention_Meeting": 683,
+            "Business": 556,
+            "Health_Ayurveda": 87,
+            "Sports": 37,
+            "Education": 12,
+            "Religious_Cultural": 25,
+            "Official": 1,
+            "Other": 2086
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "China",
+        "total_tourists": 11388,
+        "purposes": {
+            "Pleasure_Vacation": 6577,
+            "Visiting_Friends_Relatives": 1656,
+            "Convention_Meeting": 630,
+            "Business": 517,
+            "Health_Ayurveda": 80,
+            "Sports": 34,
+            "Education": 11,
+            "Religious_Cultural": 22,
+            "Official": 1,
+            "Other": 1936
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "China",
+        "total_tourists": 9534,
+        "purposes": {
+            "Pleasure_Vacation": 5472,
+            "Visiting_Friends_Relatives": 1398,
+            "Convention_Meeting": 532,
+            "Business": 430,
+            "Health_Ayurveda": 68,
+            "Sports": 29,
+            "Education": 10,
+            "Religious_Cultural": 19,
+            "Official": 1,
+            "Other": 1620
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "China",
+        "total_tourists": 8276,
+        "purposes": {
+            "Pleasure_Vacation": 4786,
+            "Visiting_Friends_Relatives": 1213,
+            "Convention_Meeting": 456,
+            "Business": 374,
+            "Health_Ayurveda": 58,
+            "Sports": 25,
+            "Education": 8,
+            "Religious_Cultural": 17,
+            "Official": 0,
+            "Other": 1393
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "China",
+        "total_tourists": 6885,
+        "purposes": {
+            "Pleasure_Vacation": 3935,
+            "Visiting_Friends_Relatives": 991,
+            "Convention_Meeting": 375,
+            "Business": 306,
+            "Health_Ayurveda": 48,
+            "Sports": 20,
+            "Education": 7,
+            "Religious_Cultural": 14,
+            "Official": 0,
+            "Other": 1145
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "China",
+        "total_tourists": 5863,
+        "purposes": {
+            "Pleasure_Vacation": 3373,
+            "Visiting_Friends_Relatives": 847,
+            "Convention_Meeting": 323,
+            "Business": 266,
+            "Health_Ayurveda": 42,
+            "Sports": 18,
+            "Education": 6,
+            "Religious_Cultural": 12,
+            "Official": 0,
+            "Other": 1000
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "China",
+        "total_tourists": 6827,
+        "purposes": {
+            "Pleasure_Vacation": 3909,
+            "Visiting_Friends_Relatives": 993,
+            "Convention_Meeting": 375,
+            "Business": 307,
+            "Health_Ayurveda": 48,
+            "Sports": 20,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1151
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "China",
+        "total_tourists": 7758,
+        "purposes": {
+            "Pleasure_Vacation": 4455,
+            "Visiting_Friends_Relatives": 1127,
+            "Convention_Meeting": 427,
+            "Business": 349,
+            "Health_Ayurveda": 54,
+            "Sports": 23,
+            "Education": 8,
+            "Religious_Cultural": 15,
+            "Official": 0,
+            "Other": 1311
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "China",
+        "total_tourists": 8542,
+        "purposes": {
+            "Pleasure_Vacation": 4901,
+            "Visiting_Friends_Relatives": 1240,
+            "Convention_Meeting": 471,
+            "Business": 385,
+            "Health_Ayurveda": 60,
+            "Sports": 26,
+            "Education": 9,
+            "Religious_Cultural": 16,
+            "Official": 0,
+            "Other": 1445
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "China",
+        "total_tourists": 9621,
+        "purposes": {
+            "Pleasure_Vacation": 5500,
+            "Visiting_Friends_Relatives": 1394,
+            "Convention_Meeting": 529,
+            "Business": 432,
+            "Health_Ayurveda": 67,
+            "Sports": 29,
+            "Education": 10,
+            "Religious_Cultural": 19,
+            "Official": 0,
+            "Other": 1627
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "China",
+        "total_tourists": 10634,
+        "purposes": {
+            "Pleasure_Vacation": 6107,
+            "Visiting_Friends_Relatives": 1545,
+            "Convention_Meeting": 587,
+            "Business": 481,
+            "Health_Ayurveda": 75,
+            "Sports": 32,
+            "Education": 11,
+            "Religious_Cultural": 21,
+            "Official": 1,
+            "Other": 1806
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "China",
+        "total_tourists": 13234,
+        "purposes": {
+            "Pleasure_Vacation": 7524,
+            "Visiting_Friends_Relatives": 1902,
+            "Convention_Meeting": 722,
+            "Business": 596,
+            "Health_Ayurveda": 92,
+            "Sports": 39,
+            "Education": 13,
+            "Religious_Cultural": 27,
+            "Official": 1,
+            "Other": 2221
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Australia",
+        "total_tourists": 8646,
+        "purposes": {
+            "Pleasure_Vacation": 4952,
+            "Visiting_Friends_Relatives": 1209,
+            "Convention_Meeting": 456,
+            "Business": 381,
+            "Health_Ayurveda": 58,
+            "Sports": 24,
+            "Education": 8,
+            "Religious_Cultural": 17,
+            "Official": 0,
+            "Other": 1424
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Australia",
+        "total_tourists": 6662,
+        "purposes": {
+            "Pleasure_Vacation": 3767,
+            "Visiting_Friends_Relatives": 974,
+            "Convention_Meeting": 365,
+            "Business": 297,
+            "Health_Ayurveda": 47,
+            "Sports": 20,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1124
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Australia",
+        "total_tourists": 6122,
+        "purposes": {
+            "Pleasure_Vacation": 3508,
+            "Visiting_Friends_Relatives": 888,
+            "Convention_Meeting": 339,
+            "Business": 274,
+            "Health_Ayurveda": 43,
+            "Sports": 18,
+            "Education": 6,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1034
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Australia",
+        "total_tourists": 5319,
+        "purposes": {
+            "Pleasure_Vacation": 3057,
+            "Visiting_Friends_Relatives": 773,
+            "Convention_Meeting": 293,
+            "Business": 238,
+            "Health_Ayurveda": 37,
+            "Sports": 16,
+            "Education": 5,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 897
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Australia",
+        "total_tourists": 4553,
+        "purposes": {
+            "Pleasure_Vacation": 2611,
+            "Visiting_Friends_Relatives": 659,
+            "Convention_Meeting": 251,
+            "Business": 205,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 9,
+            "Official": 0,
+            "Other": 771
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Australia",
+        "total_tourists": 4112,
+        "purposes": {
+            "Pleasure_Vacation": 2349,
+            "Visiting_Friends_Relatives": 596,
+            "Convention_Meeting": 227,
+            "Business": 185,
+            "Health_Ayurveda": 28,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 694
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Australia",
+        "total_tourists": 4777,
+        "purposes": {
+            "Pleasure_Vacation": 2732,
+            "Visiting_Friends_Relatives": 689,
+            "Convention_Meeting": 263,
+            "Business": 215,
+            "Health_Ayurveda": 34,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 805
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Australia",
+        "total_tourists": 5466,
+        "purposes": {
+            "Pleasure_Vacation": 3141,
+            "Visiting_Friends_Relatives": 793,
+            "Convention_Meeting": 301,
+            "Business": 246,
+            "Health_Ayurveda": 38,
+            "Sports": 17,
+            "Education": 6,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 926
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Australia",
+        "total_tourists": 6073,
+        "purposes": {
+            "Pleasure_Vacation": 3483,
+            "Visiting_Friends_Relatives": 882,
+            "Convention_Meeting": 334,
+            "Business": 273,
+            "Health_Ayurveda": 42,
+            "Sports": 18,
+            "Education": 6,
+            "Religious_Cultural": 12,
+            "Official": 0,
+            "Other": 1025
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Australia",
+        "total_tourists": 6788,
+        "purposes": {
+            "Pleasure_Vacation": 3880,
+            "Visiting_Friends_Relatives": 985,
+            "Convention_Meeting": 374,
+            "Business": 305,
+            "Health_Ayurveda": 47,
+            "Sports": 20,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1147
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Australia",
+        "total_tourists": 7714,
+        "purposes": {
+            "Pleasure_Vacation": 4424,
+            "Visiting_Friends_Relatives": 1116,
+            "Convention_Meeting": 423,
+            "Business": 347,
+            "Health_Ayurveda": 54,
+            "Sports": 23,
+            "Education": 8,
+            "Religious_Cultural": 16,
+            "Official": 0,
+            "Other": 1302
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Australia",
+        "total_tourists": 9362,
+        "purposes": {
+            "Pleasure_Vacation": 5364,
+            "Visiting_Friends_Relatives": 1360,
+            "Convention_Meeting": 518,
+            "Business": 424,
+            "Health_Ayurveda": 66,
+            "Sports": 28,
+            "Education": 10,
+            "Religious_Cultural": 19,
+            "Official": 0,
+            "Other": 1583
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "France",
+        "total_tourists": 8490,
+        "purposes": {
+            "Pleasure_Vacation": 4833,
+            "Visiting_Friends_Relatives": 1211,
+            "Convention_Meeting": 467,
+            "Business": 374,
+            "Health_Ayurveda": 56,
+            "Sports": 25,
+            "Education": 8,
+            "Religious_Cultural": 17,
+            "Official": 0,
+            "Other": 1433
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "France",
+        "total_tourists": 6687,
+        "purposes": {
+            "Pleasure_Vacation": 3861,
+            "Visiting_Friends_Relatives": 978,
+            "Convention_Meeting": 368,
+            "Business": 299,
+            "Health_Ayurveda": 47,
+            "Sports": 21,
+            "Education": 7,
+            "Religious_Cultural": 14,
+            "Official": 0,
+            "Other": 1130
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "France",
+        "total_tourists": 6168,
+        "purposes": {
+            "Pleasure_Vacation": 3535,
+            "Visiting_Friends_Relatives": 893,
+            "Convention_Meeting": 341,
+            "Business": 280,
+            "Health_Ayurveda": 43,
+            "Sports": 18,
+            "Education": 6,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1047
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "France",
+        "total_tourists": 5376,
+        "purposes": {
+            "Pleasure_Vacation": 3066,
+            "Visiting_Friends_Relatives": 776,
+            "Convention_Meeting": 295,
+            "Business": 241,
+            "Health_Ayurveda": 37,
+            "Sports": 16,
+            "Education": 5,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 910
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "France",
+        "total_tourists": 4553,
+        "purposes": {
+            "Pleasure_Vacation": 2609,
+            "Visiting_Friends_Relatives": 659,
+            "Convention_Meeting": 250,
+            "Business": 205,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 9,
+            "Official": 0,
+            "Other": 770
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "France",
+        "total_tourists": 4100,
+        "purposes": {
+            "Pleasure_Vacation": 2340,
+            "Visiting_Friends_Relatives": 594,
+            "Convention_Meeting": 226,
+            "Business": 185,
+            "Health_Ayurveda": 28,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 691
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "France",
+        "total_tourists": 4755,
+        "purposes": {
+            "Pleasure_Vacation": 2721,
+            "Visiting_Friends_Relatives": 686,
+            "Convention_Meeting": 262,
+            "Business": 214,
+            "Health_Ayurveda": 34,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 801
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "France",
+        "total_tourists": 5443,
+        "purposes": {
+            "Pleasure_Vacation": 3130,
+            "Visiting_Friends_Relatives": 792,
+            "Convention_Meeting": 299,
+            "Business": 245,
+            "Health_Ayurveda": 38,
+            "Sports": 17,
+            "Education": 6,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 921
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "France",
+        "total_tourists": 6061,
+        "purposes": {
+            "Pleasure_Vacation": 3475,
+            "Visiting_Friends_Relatives": 879,
+            "Convention_Meeting": 333,
+            "Business": 273,
+            "Health_Ayurveda": 42,
+            "Sports": 18,
+            "Education": 6,
+            "Religious_Cultural": 12,
+            "Official": 0,
+            "Other": 1023
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "France",
+        "total_tourists": 6779,
+        "purposes": {
+            "Pleasure_Vacation": 3875,
+            "Visiting_Friends_Relatives": 984,
+            "Convention_Meeting": 373,
+            "Business": 305,
+            "Health_Ayurveda": 47,
+            "Sports": 20,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1145
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "France",
+        "total_tourists": 7713,
+        "purposes": {
+            "Pleasure_Vacation": 4422,
+            "Visiting_Friends_Relatives": 1116,
+            "Convention_Meeting": 422,
+            "Business": 347,
+            "Health_Ayurveda": 54,
+            "Sports": 23,
+            "Education": 8,
+            "Religious_Cultural": 16,
+            "Official": 0,
+            "Other": 1301
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "France",
+        "total_tourists": 9362,
+        "purposes": {
+            "Pleasure_Vacation": 5369,
+            "Visiting_Friends_Relatives": 1361,
+            "Convention_Meeting": 518,
+            "Business": 424,
+            "Health_Ayurveda": 66,
+            "Sports": 28,
+            "Education": 10,
+            "Religious_Cultural": 19,
+            "Official": 0,
+            "Other": 1583
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "United States",
+        "total_tourists": 5226,
+        "purposes": {
+            "Pleasure_Vacation": 2988,
+            "Visiting_Friends_Relatives": 761,
+            "Convention_Meeting": 290,
+            "Business": 238,
+            "Health_Ayurveda": 36,
+            "Sports": 15,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 882
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "United States",
+        "total_tourists": 4629,
+        "purposes": {
+            "Pleasure_Vacation": 2658,
+            "Visiting_Friends_Relatives": 675,
+            "Convention_Meeting": 255,
+            "Business": 209,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 9,
+            "Official": 0,
+            "Other": 782
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "United States",
+        "total_tourists": 4102,
+        "purposes": {
+            "Pleasure_Vacation": 2349,
+            "Visiting_Friends_Relatives": 599,
+            "Convention_Meeting": 227,
+            "Business": 186,
+            "Health_Ayurveda": 29,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 695
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "United States",
+        "total_tourists": 3637,
+        "purposes": {
+            "Pleasure_Vacation": 2069,
+            "Visiting_Friends_Relatives": 523,
+            "Convention_Meeting": 200,
+            "Business": 164,
+            "Health_Ayurveda": 26,
+            "Sports": 11,
+            "Education": 4,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 616
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "United States",
+        "total_tourists": 3243,
+        "purposes": {
+            "Pleasure_Vacation": 1854,
+            "Visiting_Friends_Relatives": 470,
+            "Convention_Meeting": 178,
+            "Business": 146,
+            "Health_Ayurveda": 22,
+            "Sports": 10,
+            "Education": 3,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 548
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "United States",
+        "total_tourists": 2827,
+        "purposes": {
+            "Pleasure_Vacation": 1620,
+            "Visiting_Friends_Relatives": 412,
+            "Convention_Meeting": 156,
+            "Business": 128,
+            "Health_Ayurveda": 20,
+            "Sports": 8,
+            "Education": 3,
+            "Religious_Cultural": 6,
+            "Official": 0,
+            "Other": 479
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "United States",
+        "total_tourists": 3228,
+        "purposes": {
+            "Pleasure_Vacation": 1848,
+            "Visiting_Friends_Relatives": 468,
+            "Convention_Meeting": 177,
+            "Business": 145,
+            "Health_Ayurveda": 22,
+            "Sports": 10,
+            "Education": 3,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 545
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "United States",
+        "total_tourists": 3740,
+        "purposes": {
+            "Pleasure_Vacation": 2140,
+            "Visiting_Friends_Relatives": 544,
+            "Convention_Meeting": 206,
+            "Business": 169,
+            "Health_Ayurveda": 26,
+            "Sports": 11,
+            "Education": 4,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 631
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "United States",
+        "total_tourists": 4294,
+        "purposes": {
+            "Pleasure_Vacation": 2458,
+            "Visiting_Friends_Relatives": 624,
+            "Convention_Meeting": 236,
+            "Business": 193,
+            "Health_Ayurveda": 30,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 726
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "United States",
+        "total_tourists": 4669,
+        "purposes": {
+            "Pleasure_Vacation": 2665,
+            "Visiting_Friends_Relatives": 675,
+            "Convention_Meeting": 257,
+            "Business": 211,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 789
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "United States",
+        "total_tourists": 5484,
+        "purposes": {
+            "Pleasure_Vacation": 3134,
+            "Visiting_Friends_Relatives": 796,
+            "Convention_Meeting": 301,
+            "Business": 247,
+            "Health_Ayurveda": 38,
+            "Sports": 16,
+            "Education": 5,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 929
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "United States",
+        "total_tourists": 6463,
+        "purposes": {
+            "Pleasure_Vacation": 3709,
+            "Visiting_Friends_Relatives": 938,
+            "Convention_Meeting": 357,
+            "Business": 290,
+            "Health_Ayurveda": 45,
+            "Sports": 19,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1094
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Netherlands",
+        "total_tourists": 5508,
+        "purposes": {
+            "Pleasure_Vacation": 3150,
+            "Visiting_Friends_Relatives": 798,
+            "Convention_Meeting": 301,
+            "Business": 246,
+            "Health_Ayurveda": 39,
+            "Sports": 16,
+            "Education": 5,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 931
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Netherlands",
+        "total_tourists": 4742,
+        "purposes": {
+            "Pleasure_Vacation": 2712,
+            "Visiting_Friends_Relatives": 688,
+            "Convention_Meeting": 260,
+            "Business": 214,
+            "Health_Ayurveda": 33,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 9,
+            "Official": 0,
+            "Other": 798
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Netherlands",
+        "total_tourists": 4121,
+        "purposes": {
+            "Pleasure_Vacation": 2360,
+            "Visiting_Friends_Relatives": 600,
+            "Convention_Meeting": 228,
+            "Business": 187,
+            "Health_Ayurveda": 29,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 698
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Netherlands",
+        "total_tourists": 3655,
+        "purposes": {
+            "Pleasure_Vacation": 2084,
+            "Visiting_Friends_Relatives": 524,
+            "Convention_Meeting": 200,
+            "Business": 165,
+            "Health_Ayurveda": 26,
+            "Sports": 11,
+            "Education": 4,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 617
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Netherlands",
+        "total_tourists": 3253,
+        "purposes": {
+            "Pleasure_Vacation": 1858,
+            "Visiting_Friends_Relatives": 471,
+            "Convention_Meeting": 178,
+            "Business": 146,
+            "Health_Ayurveda": 23,
+            "Sports": 10,
+            "Education": 3,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 549
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Netherlands",
+        "total_tourists": 2838,
+        "purposes": {
+            "Pleasure_Vacation": 1628,
+            "Visiting_Friends_Relatives": 413,
+            "Convention_Meeting": 156,
+            "Business": 128,
+            "Health_Ayurveda": 20,
+            "Sports": 8,
+            "Education": 3,
+            "Religious_Cultural": 6,
+            "Official": 0,
+            "Other": 481
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Netherlands",
+        "total_tourists": 3235,
+        "purposes": {
+            "Pleasure_Vacation": 1852,
+            "Visiting_Friends_Relatives": 469,
+            "Convention_Meeting": 178,
+            "Business": 145,
+            "Health_Ayurveda": 22,
+            "Sports": 10,
+            "Education": 3,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 546
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Netherlands",
+        "total_tourists": 3742,
+        "purposes": {
+            "Pleasure_Vacation": 2141,
+            "Visiting_Friends_Relatives": 544,
+            "Convention_Meeting": 206,
+            "Business": 169,
+            "Health_Ayurveda": 26,
+            "Sports": 11,
+            "Education": 4,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 632
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Netherlands",
+        "total_tourists": 4294,
+        "purposes": {
+            "Pleasure_Vacation": 2458,
+            "Visiting_Friends_Relatives": 624,
+            "Convention_Meeting": 236,
+            "Business": 193,
+            "Health_Ayurveda": 30,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 726
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Netherlands",
+        "total_tourists": 4669,
+        "purposes": {
+            "Pleasure_Vacation": 2665,
+            "Visiting_Friends_Relatives": 675,
+            "Convention_Meeting": 257,
+            "Business": 211,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 789
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Netherlands",
+        "total_tourists": 5484,
+        "purposes": {
+            "Pleasure_Vacation": 3134,
+            "Visiting_Friends_Relatives": 796,
+            "Convention_Meeting": 301,
+            "Business": 247,
+            "Health_Ayurveda": 38,
+            "Sports": 16,
+            "Education": 5,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 929
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Netherlands",
+        "total_tourists": 6463,
+        "purposes": {
+            "Pleasure_Vacation": 3709,
+            "Visiting_Friends_Relatives": 938,
+            "Convention_Meeting": 357,
+            "Business": 290,
+            "Health_Ayurveda": 45,
+            "Sports": 19,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1094
+        }
+    },
+    {
+        "year": 2025,
+        "month": 1,
+        "country": "Maldives",
+        "total_tourists": 5199,
+        "purposes": {
+            "Pleasure_Vacation": 2979,
+            "Visiting_Friends_Relatives": 756,
+            "Convention_Meeting": 286,
+            "Business": 234,
+            "Health_Ayurveda": 36,
+            "Sports": 15,
+            "Education": 6,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 878
+        }
+    },
+    {
+        "year": 2025,
+        "month": 2,
+        "country": "Maldives",
+        "total_tourists": 4630,
+        "purposes": {
+            "Pleasure_Vacation": 2659,
+            "Visiting_Friends_Relatives": 672,
+            "Convention_Meeting": 256,
+            "Business": 209,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 9,
+            "Official": 0,
+            "Other": 782
+        }
+    },
+    {
+        "year": 2025,
+        "month": 3,
+        "country": "Maldives",
+        "total_tourists": 4104,
+        "purposes": {
+            "Pleasure_Vacation": 2352,
+            "Visiting_Friends_Relatives": 599,
+            "Convention_Meeting": 227,
+            "Business": 185,
+            "Health_Ayurveda": 29,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 695
+        }
+    },
+    {
+        "year": 2025,
+        "month": 4,
+        "country": "Maldives",
+        "total_tourists": 3630,
+        "purposes": {
+            "Pleasure_Vacation": 2064,
+            "Visiting_Friends_Relatives": 522,
+            "Convention_Meeting": 199,
+            "Business": 164,
+            "Health_Ayurveda": 26,
+            "Sports": 11,
+            "Education": 4,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 614
+        }
+    },
+    {
+        "year": 2025,
+        "month": 5,
+        "country": "Maldives",
+        "total_tourists": 3242,
+        "purposes": {
+            "Pleasure_Vacation": 1853,
+            "Visiting_Friends_Relatives": 470,
+            "Convention_Meeting": 178,
+            "Business": 146,
+            "Health_Ayurveda": 22,
+            "Sports": 10,
+            "Education": 3,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 548
+        }
+    },
+    {
+        "year": 2025,
+        "month": 6,
+        "country": "Maldives",
+        "total_tourists": 2827,
+        "purposes": {
+            "Pleasure_Vacation": 1620,
+            "Visiting_Friends_Relatives": 412,
+            "Convention_Meeting": 156,
+            "Business": 128,
+            "Health_Ayurveda": 20,
+            "Sports": 8,
+            "Education": 3,
+            "Religious_Cultural": 6,
+            "Official": 0,
+            "Other": 479
+        }
+    },
+    {
+        "year": 2025,
+        "month": 7,
+        "country": "Maldives",
+        "total_tourists": 3228,
+        "purposes": {
+            "Pleasure_Vacation": 1848,
+            "Visiting_Friends_Relatives": 468,
+            "Convention_Meeting": 177,
+            "Business": 145,
+            "Health_Ayurveda": 22,
+            "Sports": 10,
+            "Education": 3,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 545
+        }
+    },
+    {
+        "year": 2025,
+        "month": 8,
+        "country": "Maldives",
+        "total_tourists": 3740,
+        "purposes": {
+            "Pleasure_Vacation": 2140,
+            "Visiting_Friends_Relatives": 544,
+            "Convention_Meeting": 206,
+            "Business": 169,
+            "Health_Ayurveda": 26,
+            "Sports": 11,
+            "Education": 4,
+            "Religious_Cultural": 7,
+            "Official": 0,
+            "Other": 631
+        }
+    },
+    {
+        "year": 2025,
+        "month": 9,
+        "country": "Maldives",
+        "total_tourists": 4294,
+        "purposes": {
+            "Pleasure_Vacation": 2458,
+            "Visiting_Friends_Relatives": 624,
+            "Convention_Meeting": 236,
+            "Business": 193,
+            "Health_Ayurveda": 30,
+            "Sports": 13,
+            "Education": 4,
+            "Religious_Cultural": 8,
+            "Official": 0,
+            "Other": 726
+        }
+    },
+    {
+        "year": 2025,
+        "month": 10,
+        "country": "Maldives",
+        "total_tourists": 4669,
+        "purposes": {
+            "Pleasure_Vacation": 2665,
+            "Visiting_Friends_Relatives": 675,
+            "Convention_Meeting": 257,
+            "Business": 211,
+            "Health_Ayurveda": 32,
+            "Sports": 14,
+            "Education": 5,
+            "Religious_Cultural": 10,
+            "Official": 0,
+            "Other": 789
+        }
+    },
+    {
+        "year": 2025,
+        "month": 11,
+        "country": "Maldives",
+        "total_tourists": 5484,
+        "purposes": {
+            "Pleasure_Vacation": 3134,
+            "Visiting_Friends_Relatives": 796,
+            "Convention_Meeting": 301,
+            "Business": 247,
+            "Health_Ayurveda": 38,
+            "Sports": 16,
+            "Education": 5,
+            "Religious_Cultural": 11,
+            "Official": 0,
+            "Other": 929
+        }
+    },
+    {
+        "year": 2025,
+        "month": 12,
+        "country": "Maldives",
+        "total_tourists": 6463,
+        "purposes": {
+            "Pleasure_Vacation": 3709,
+            "Visiting_Friends_Relatives": 938,
+            "Convention_Meeting": 357,
+            "Business": 290,
+            "Health_Ayurveda": 45,
+            "Sports": 19,
+            "Education": 7,
+            "Religious_Cultural": 13,
+            "Official": 0,
+            "Other": 1094
+        }
+    }
+]

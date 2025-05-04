@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 // Import the JSON data
-import tourismPurposeArrivalData from "../../../../../components/Data/tourism_purpose_predictions.json" 
+import tourismPurposeArrivalData from "../../../../../components/Data/tourism_purpose_predictions_new.json" 
 import { TourismCombinedChart } from "@/components/tourism-purpose-base-trend";
 
 
